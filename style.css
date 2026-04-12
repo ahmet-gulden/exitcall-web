@@ -265,11 +265,43 @@ a:hover { color: var(--color-accent-hover); }
 
 .page-content a { color: var(--color-accent); }
 
+/* — Language Switcher — */
+.lang-switch {
+  appearance: none;
+  -webkit-appearance: none;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: 6px;
+  padding: 4px 24px 4px 8px;
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  cursor: pointer;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' fill='%236b7280' viewBox='0 0 16 16'%3E%3Cpath d='M8 11L3 6h10z'/%3E%3C/svg%3E");
+  background-repeat: no-repeat;
+  background-position: right 6px center;
+  font-family: var(--font);
+}
+.lang-switch:hover { border-color: var(--color-accent); color: var(--color-text); }
+
+/* — RTL Support — */
+html[dir="rtl"] { direction: rtl; text-align: right; }
+html[dir="rtl"] .site-header .container { flex-direction: row-reverse; }
+html[dir="rtl"] .site-nav { flex-direction: row-reverse; }
+html[dir="rtl"] .footer-links { flex-direction: row-reverse; }
+html[dir="rtl"] .site-logo { flex-direction: row-reverse; }
+html[dir="rtl"] .feature-card { text-align: right; }
+html[dir="rtl"] .page-content ul { padding-left: 0; padding-right: 20px; }
+html[dir="rtl"] .lang-switch {
+  background-position: left 6px center;
+  padding: 4px 8px 4px 24px;
+}
+
 /* — Responsive — */
 @media (max-width: 600px) {
   .hero { padding: 56px 16px 48px; }
   .features { padding: 40px 0; }
   .how-it-works { padding: 40px 0; }
-  .site-nav { gap: 16px; }
+  .site-nav { gap: 12px; flex-wrap: wrap; }
   .cta-section { margin: 0 16px 48px; padding: 40px 16px; }
+  .lang-switch { font-size: 0.75rem; }
 }

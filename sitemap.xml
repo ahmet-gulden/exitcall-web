@@ -1,39 +1,1408 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://exitcall.app/</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
+    <loc>https://exitcall.app/index.html</loc>
     <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ar/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/de/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/es/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/fr/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/hi/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/it/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ja/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ko/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/pt-BR/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ru/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/tr/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/zh-Hans/index.html</loc>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/index.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/index.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/index.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/index.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/index.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/index.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/index.html"/>
   </url>
   <url>
     <loc>https://exitcall.app/faq.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ar/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/de/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/es/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/fr/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/hi/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/it/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ja/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ko/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/pt-BR/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ru/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/tr/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/zh-Hans/faq.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/faq.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/faq.html"/>
   </url>
   <url>
     <loc>https://exitcall.app/support.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ar/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/de/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/es/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/fr/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/hi/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/it/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ja/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ko/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/pt-BR/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ru/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/tr/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/zh-Hans/support.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/support.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/support.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/support.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/support.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/support.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/support.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/support.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/support.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/support.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/support.html"/>
   </url>
   <url>
     <loc>https://exitcall.app/privacy.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ar/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/de/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/es/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/fr/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/hi/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/it/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ja/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ko/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/pt-BR/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ru/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/tr/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/zh-Hans/privacy.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/privacy.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/privacy.html"/>
   </url>
   <url>
     <loc>https://exitcall.app/terms.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.5</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ar/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/de/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/es/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/fr/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/hi/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/it/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ja/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ko/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/pt-BR/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ru/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/tr/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/zh-Hans/terms.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/terms.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/terms.html"/>
   </url>
   <url>
     <loc>https://exitcall.app/eula.html</loc>
-    <lastmod>2026-04-12</lastmod>
-    <changefreq>yearly</changefreq>
-    <priority>0.3</priority>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ar/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/de/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/es/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/fr/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/hi/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/it/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ja/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ko/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/pt-BR/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/ru/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/tr/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
+  </url>
+  <url>
+    <loc>https://exitcall.app/zh-Hans/eula.html</loc>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="en" href="https://exitcall.app/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://exitcall.app/ar/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://exitcall.app/de/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://exitcall.app/es/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://exitcall.app/fr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="hi" href="https://exitcall.app/hi/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="it" href="https://exitcall.app/it/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ja" href="https://exitcall.app/ja/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ko" href="https://exitcall.app/ko/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="pt-BR" href="https://exitcall.app/pt-BR/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="ru" href="https://exitcall.app/ru/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://exitcall.app/tr/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="zh-Hans" href="https://exitcall.app/zh-Hans/eula.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://exitcall.app/eula.html"/>
   </url>
 </urlset>
