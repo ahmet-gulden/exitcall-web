@@ -1,0 +1,269 @@
+/* ExitCall — exitcall.app */
+
+:root {
+  --color-bg: #ffffff;
+  --color-text: #1a1a1a;
+  --color-text-secondary: #6b7280;
+  --color-accent: #007aff;
+  --color-accent-hover: #0056cc;
+  --color-surface: #f5f5f7;
+  --color-border: #e5e7eb;
+  --max-width: 960px;
+  --font: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'Segoe UI', Roboto, sans-serif;
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+body {
+  font-family: var(--font);
+  color: var(--color-text);
+  background: var(--color-bg);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: var(--color-accent); text-decoration: none; }
+a:hover { color: var(--color-accent-hover); }
+
+/* — Header / Nav — */
+.site-header {
+  position: sticky;
+  top: 0;
+  background: rgba(255,255,255,0.85);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border-bottom: 1px solid var(--color-border);
+  z-index: 100;
+}
+
+.site-header .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 56px;
+}
+
+.site-logo {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: var(--color-text);
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.site-logo img {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+}
+
+.site-nav { display: flex; gap: 24px; font-size: 0.9rem; }
+.site-nav a { color: var(--color-text-secondary); }
+.site-nav a:hover { color: var(--color-text); }
+
+/* — Container — */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 24px;
+}
+
+/* — Hero — */
+.hero {
+  text-align: center;
+  padding: 80px 24px 64px;
+}
+
+.hero h1 {
+  font-size: clamp(2rem, 5vw, 3.2rem);
+  font-weight: 800;
+  letter-spacing: -0.02em;
+  line-height: 1.15;
+  margin-bottom: 16px;
+}
+
+.hero .subtitle {
+  font-size: clamp(1rem, 2.5vw, 1.25rem);
+  color: var(--color-text-secondary);
+  max-width: 540px;
+  margin: 0 auto 32px;
+  line-height: 1.6;
+}
+
+.app-store-badge {
+  display: inline-block;
+  transition: opacity 0.2s;
+}
+.app-store-badge:hover { opacity: 0.8; }
+.app-store-badge img { height: 54px; }
+
+/* — Features — */
+.features {
+  padding: 64px 0;
+}
+
+.features-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 32px;
+}
+
+.feature-card {
+  background: var(--color-surface);
+  border-radius: 16px;
+  padding: 32px;
+}
+
+.feature-icon {
+  font-size: 2rem;
+  margin-bottom: 12px;
+}
+
+.feature-card h3 {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+
+.feature-card p {
+  color: var(--color-text-secondary);
+  font-size: 0.95rem;
+}
+
+/* — How it works — */
+.how-it-works {
+  padding: 64px 0;
+  text-align: center;
+}
+
+.how-it-works h2 {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 40px;
+}
+
+.steps {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 32px;
+  max-width: 720px;
+  margin: 0 auto;
+}
+
+.step-number {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: var(--color-accent);
+  color: #fff;
+  font-weight: 700;
+  font-size: 1.1rem;
+  margin-bottom: 12px;
+}
+
+.step h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-bottom: 6px;
+}
+
+.step p {
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+}
+
+/* — CTA — */
+.cta-section {
+  text-align: center;
+  padding: 64px 24px;
+  background: var(--color-surface);
+  border-radius: 24px;
+  margin: 0 24px 64px;
+  max-width: calc(var(--max-width) - 48px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.cta-section h2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.cta-section p {
+  color: var(--color-text-secondary);
+  margin-bottom: 24px;
+}
+
+/* — Footer — */
+.site-footer {
+  border-top: 1px solid var(--color-border);
+  padding: 32px 0;
+  text-align: center;
+  color: var(--color-text-secondary);
+  font-size: 0.85rem;
+}
+
+.footer-links {
+  display: flex;
+  justify-content: center;
+  gap: 24px;
+  margin-bottom: 12px;
+  flex-wrap: wrap;
+}
+
+.footer-links a { color: var(--color-text-secondary); }
+.footer-links a:hover { color: var(--color-text); }
+
+/* — Legal / Content pages — */
+.page-content {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 48px 24px 80px;
+}
+
+.page-content h1 {
+  font-size: 2rem;
+  font-weight: 700;
+  margin-bottom: 8px;
+}
+
+.page-content .meta {
+  color: var(--color-text-secondary);
+  margin-bottom: 32px;
+  font-size: 0.9rem;
+}
+
+.page-content h2 {
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-top: 32px;
+  margin-bottom: 8px;
+}
+
+.page-content p, .page-content li {
+  color: var(--color-text-secondary);
+  margin-bottom: 12px;
+}
+
+.page-content ul {
+  padding-left: 20px;
+}
+
+.page-content a { color: var(--color-accent); }
+
+/* — Responsive — */
+@media (max-width: 600px) {
+  .hero { padding: 56px 16px 48px; }
+  .features { padding: 40px 0; }
+  .how-it-works { padding: 40px 0; }
+  .site-nav { gap: 16px; }
+  .cta-section { margin: 0 16px 48px; padding: 40px 16px; }
+}
