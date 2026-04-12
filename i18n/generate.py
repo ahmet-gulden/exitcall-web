@@ -356,15 +356,15 @@ def gen_support(locale, strings, all_locales):
     return head + "\n" + body
 
 
-# Legal pages: privacy, terms, eula — keep English content, just translate chrome
-def gen_legal_page(locale, strings, all_locales, page_name, page_title_en, content_html):
-    """Legal pages keep English content body but get localized chrome (header/footer/nav)."""
-    ap = asset_prefix(locale)
-    title = f"{page_title_en} — ExitCall"
-    desc = f"{page_title_en} for ExitCall."
+# Legal pages: privacy, terms, eula — fully localized
 
-    head = build_head(locale, page_name, strings, title, desc, all_locales)
-    header = build_header(locale, page_name, strings)
+def gen_terms(locale, strings, all_locales):
+    ap = asset_prefix(locale)
+    title = f"{t(strings, 'terms_title', locale)} — ExitCall"
+    desc = t(strings, "terms_intro", locale)[:120]
+
+    head = build_head(locale, "terms.html", strings, title, desc, all_locales)
+    header = build_header(locale, "terms.html", strings)
     footer = build_footer(locale, strings)
 
     body = f'''<body>
@@ -372,7 +372,37 @@ def gen_legal_page(locale, strings, all_locales, page_name, page_title_en, conte
 {header}
 
   <div class="page-content">
-{content_html}
+    <h1>{t(strings, "terms_title", locale)}</h1>
+    <p class="meta">{t(strings, "terms_updated", locale)}</p>
+
+    <p>{t(strings, "terms_intro", locale)}</p>
+
+    <h2>{t(strings, "terms_h_service", locale)}</h2>
+    <p>{t(strings, "terms_p_service", locale)}</p>
+
+    <h2>{t(strings, "terms_h_subs", locale)}</h2>
+    <p>{t(strings, "terms_p_subs", locale)}</p>
+
+    <h2>{t(strings, "terms_h_trial", locale)}</h2>
+    <p>{t(strings, "terms_p_trial", locale)}</p>
+
+    <h2>{t(strings, "terms_h_use", locale)}</h2>
+    <p>{t(strings, "terms_p_use", locale)}</p>
+
+    <h2>{t(strings, "terms_h_ip", locale)}</h2>
+    <p>{t(strings, "terms_p_ip", locale)}</p>
+
+    <h2>{t(strings, "terms_h_disclaimer", locale)}</h2>
+    <p>{t(strings, "terms_p_disclaimer", locale)}</p>
+
+    <h2>{t(strings, "terms_h_liability", locale)}</h2>
+    <p>{t(strings, "terms_p_liability", locale)}</p>
+
+    <h2>{t(strings, "terms_h_changes", locale)}</h2>
+    <p>{t(strings, "terms_p_changes", locale)}</p>
+
+    <h2>{t(strings, "legal_h_contact", locale)}</h2>
+    <p>{t(strings, "legal_contact", locale)}</p>
   </div>
 
 {footer}
@@ -384,95 +414,109 @@ def gen_legal_page(locale, strings, all_locales, page_name, page_title_en, conte
     return head + "\n" + body
 
 
-# Legal page content (English, reused across all locales — legal docs stay in English)
-PRIVACY_CONTENT = """    <h1>Privacy Policy</h1>
-    <p class="meta">Last updated: April 9, 2026</p>
+def gen_privacy(locale, strings, all_locales):
+    ap = asset_prefix(locale)
+    title = f"{t(strings, 'privacy_title', locale)} — ExitCall"
+    desc = t(strings, "privacy_intro", locale)[:120]
 
-    <p>ExitCall ("we", "our", or "us") is committed to protecting your privacy. This policy explains what data we collect and how we use it.</p>
+    head = build_head(locale, "privacy.html", strings, title, desc, all_locales)
+    header = build_header(locale, "privacy.html", strings)
+    footer = build_footer(locale, strings)
 
-    <h2>Data We Collect</h2>
-    <p>ExitCall does not collect or store any personally identifiable information on our servers. All data (call history, character settings, scheduled calls) is stored locally on your device.</p>
+    body = f'''<body>
 
-    <h2>Analytics</h2>
-    <p>We use Firebase Analytics to collect anonymous, aggregated usage data (e.g. feature usage, crash reports). This data cannot be used to identify you personally.</p>
+{header}
 
-    <h2>Purchases</h2>
-    <p>In-app purchases are processed by Apple via the App Store. We do not have access to your payment information.</p>
+  <div class="page-content">
+    <h1>{t(strings, "privacy_title", locale)}</h1>
+    <p class="meta">{t(strings, "privacy_updated", locale)}</p>
 
-    <h2>Third-Party Services</h2>
+    <p>{t(strings, "privacy_intro", locale)}</p>
+
+    <h2>{t(strings, "privacy_h_data", locale)}</h2>
+    <p>{t(strings, "privacy_p_data", locale)}</p>
+
+    <h2>{t(strings, "privacy_h_analytics", locale)}</h2>
+    <p>{t(strings, "privacy_p_analytics", locale)}</p>
+
+    <h2>{t(strings, "privacy_h_purchases", locale)}</h2>
+    <p>{t(strings, "privacy_p_purchases", locale)}</p>
+
+    <h2>{t(strings, "privacy_h_thirdparty", locale)}</h2>
     <ul>
-      <li><a href="https://firebase.google.com/support/privacy" target="_blank" rel="noopener">Firebase (Google)</a> — analytics and remote configuration</li>
+      <li>{t(strings, "privacy_p_thirdparty", locale)}</li>
     </ul>
 
-    <h2>Children's Privacy</h2>
-    <p>ExitCall is not directed at children under 13. We do not knowingly collect data from children.</p>
+    <h2>{t(strings, "privacy_h_children", locale)}</h2>
+    <p>{t(strings, "privacy_p_children", locale)}</p>
 
-    <h2>Changes to This Policy</h2>
-    <p>We may update this policy from time to time. The latest version will always be available at this URL.</p>
+    <h2>{t(strings, "privacy_h_changes", locale)}</h2>
+    <p>{t(strings, "privacy_p_changes", locale)}</p>
 
-    <h2>Contact</h2>
-    <p>Questions? Email us at <a href="mailto:support@exitcall.app">support@exitcall.app</a></p>"""
+    <h2>{t(strings, "legal_h_contact", locale)}</h2>
+    <p>{t(strings, "legal_contact", locale)}</p>
+  </div>
 
-TERMS_CONTENT = """    <h1>Terms of Service</h1>
-    <p class="meta">Last updated: April 12, 2026</p>
+{footer}
 
-    <p>By using ExitCall ("the App"), you agree to these terms. If you do not agree, do not use the App.</p>
+<script src="{ap}app-lang.js"></script>
+</body>
+</html>
+'''
+    return head + "\n" + body
 
-    <h2>Description of Service</h2>
-    <p>ExitCall is a mobile application that simulates incoming phone calls to help you leave uncomfortable situations. The App uses text-to-speech to generate voice content during simulated calls.</p>
 
-    <h2>Subscriptions</h2>
-    <p>ExitCall offers optional in-app subscriptions (monthly and annual) that unlock additional features. Subscriptions are billed through your Apple ID and automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage or cancel subscriptions in your device's Settings.</p>
+def gen_eula(locale, strings, all_locales):
+    ap = asset_prefix(locale)
+    title = f"{t(strings, 'eula_title', locale)} — ExitCall"
+    desc = t(strings, "eula_intro", locale)[:120]
 
-    <h2>Free Trial</h2>
-    <p>New users receive a free trial period with full access. After the trial expires, some features require a paid subscription.</p>
+    head = build_head(locale, "eula.html", strings, title, desc, all_locales)
+    header = build_header(locale, "eula.html", strings)
+    footer = build_footer(locale, strings)
 
-    <h2>Acceptable Use</h2>
-    <p>You agree not to use ExitCall for any unlawful purpose or in any way that could harm, disable, or impair the service.</p>
+    body = f'''<body>
 
-    <h2>Intellectual Property</h2>
-    <p>All content, design, and code in ExitCall are owned by us and protected by applicable intellectual property laws.</p>
+{header}
 
-    <h2>Disclaimer</h2>
-    <p>ExitCall is provided "as is" without warranties of any kind. We are not responsible for any consequences arising from the use of simulated calls.</p>
+  <div class="page-content">
+    <h1>{t(strings, "eula_title", locale)}</h1>
+    <p class="meta">{t(strings, "eula_updated", locale)}</p>
 
-    <h2>Limitation of Liability</h2>
-    <p>To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App.</p>
+    <p>{t(strings, "eula_intro", locale)}</p>
 
-    <h2>Changes</h2>
-    <p>We may update these terms at any time. Continued use of the App after changes constitutes acceptance of the new terms.</p>
+    <h2>{t(strings, "eula_h_license", locale)}</h2>
+    <p>{t(strings, "eula_p_license", locale)}</p>
 
-    <h2>Contact</h2>
-    <p>Questions? Email us at <a href="mailto:support@exitcall.app">support@exitcall.app</a></p>"""
+    <h2>{t(strings, "eula_h_restrictions", locale)}</h2>
+    <p>{t(strings, "eula_p_restrictions", locale)}</p>
 
-EULA_CONTENT = """    <h1>End User License Agreement</h1>
-    <p class="meta">Last updated: April 12, 2026</p>
+    <h2>{t(strings, "eula_h_ownership", locale)}</h2>
+    <p>{t(strings, "eula_p_ownership", locale)}</p>
 
-    <p>This End User License Agreement ("EULA") governs your use of the ExitCall application ("the App"). By downloading or using the App, you agree to be bound by this agreement.</p>
+    <h2>{t(strings, "eula_h_termination", locale)}</h2>
+    <p>{t(strings, "eula_p_termination", locale)}</p>
 
-    <h2>License Grant</h2>
-    <p>We grant you a limited, non-exclusive, non-transferable, revocable license to use the App on any Apple device that you own or control, subject to Apple's Usage Rules.</p>
+    <h2>{t(strings, "eula_h_disclaimer", locale)}</h2>
+    <p>{t(strings, "eula_p_disclaimer", locale)}</p>
 
-    <h2>Restrictions</h2>
-    <p>You may not: (a) copy, modify, or distribute the App; (b) reverse engineer, decompile, or disassemble the App; (c) rent, lease, or lend the App to third parties; (d) use the App for any unlawful purpose.</p>
+    <h2>{t(strings, "eula_h_liability", locale)}</h2>
+    <p>{t(strings, "eula_p_liability", locale)}</p>
 
-    <h2>Ownership</h2>
-    <p>The App and all intellectual property rights therein are owned by us. This EULA does not grant you any ownership rights.</p>
+    <h2>{t(strings, "eula_h_apple", locale)}</h2>
+    <p>{t(strings, "eula_p_apple", locale)}</p>
 
-    <h2>Termination</h2>
-    <p>This license is effective until terminated. It will terminate automatically if you fail to comply with any term. Upon termination, you must delete all copies of the App.</p>
+    <h2>{t(strings, "legal_h_contact", locale)}</h2>
+    <p>{t(strings, "legal_contact", locale)}</p>
+  </div>
 
-    <h2>Disclaimer of Warranties</h2>
-    <p>The App is provided "as is" without warranty of any kind, express or implied.</p>
+{footer}
 
-    <h2>Limitation of Liability</h2>
-    <p>In no event shall we be liable for any damages arising from the use or inability to use the App.</p>
-
-    <h2>Apple Terms</h2>
-    <p>This EULA is between you and us, not Apple. Apple has no obligation to furnish maintenance or support for the App. In the event of any failure to conform to applicable warranties, you may notify Apple for a refund of the purchase price (if any). Apple has no other warranty obligation.</p>
-
-    <h2>Contact</h2>
-    <p>Questions? Email us at <a href="mailto:support@exitcall.app">support@exitcall.app</a></p>"""
+<script src="{ap}app-lang.js"></script>
+</body>
+</html>
+'''
+    return head + "\n" + body
 
 
 def main():
@@ -496,9 +540,9 @@ def main():
             "index.html": gen_index(locale, strings, all_locales),
             "faq.html": gen_faq(locale, strings, all_locales),
             "support.html": gen_support(locale, strings, all_locales),
-            "privacy.html": gen_legal_page(locale, strings, all_locales, "privacy.html", "Privacy Policy", PRIVACY_CONTENT),
-            "terms.html": gen_legal_page(locale, strings, all_locales, "terms.html", "Terms of Service", TERMS_CONTENT),
-            "eula.html": gen_legal_page(locale, strings, all_locales, "eula.html", "End User License Agreement", EULA_CONTENT),
+            "privacy.html": gen_privacy(locale, strings, all_locales),
+            "terms.html": gen_terms(locale, strings, all_locales),
+            "eula.html": gen_eula(locale, strings, all_locales),
         }
 
         for page_name, html in pages.items():
