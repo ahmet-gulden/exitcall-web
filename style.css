@@ -296,12 +296,22 @@ html[dir="rtl"] .lang-switch {
   padding: 4px 8px 4px 24px;
 }
 
+/* — From-app mode: hide language switcher — */
+body.from-app .lang-switch { display: none; }
+
 /* — Responsive — */
 @media (max-width: 600px) {
   .hero { padding: 56px 16px 48px; }
   .features { padding: 40px 0; }
   .how-it-works { padding: 40px 0; }
-  .site-nav { gap: 12px; flex-wrap: wrap; }
+  .site-header .container {
+    flex-wrap: wrap;
+    height: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    gap: 4px;
+  }
+  .site-nav { gap: 12px; flex-wrap: wrap; width: 100%; justify-content: flex-start; }
   .cta-section { margin: 0 16px 48px; padding: 40px 16px; }
   .lang-switch { font-size: 0.75rem; }
 }

@@ -254,6 +254,7 @@ def gen_index(locale, strings, all_locales):
 
 {footer}
 
+<script src="{ap}app-lang.js"></script>
 </body>
 </html>
 '''
@@ -302,6 +303,7 @@ def gen_faq(locale, strings, all_locales):
 
 {footer}
 
+<script src="{ap}app-lang.js"></script>
 </body>
 </html>
 '''
@@ -309,6 +311,7 @@ def gen_faq(locale, strings, all_locales):
 
 
 def gen_support(locale, strings, all_locales):
+    ap = asset_prefix(locale)
     title = f"{t(strings, 'support_title', locale)} — ExitCall"
     desc = t(strings, "support_intro", locale)
 
@@ -346,6 +349,7 @@ def gen_support(locale, strings, all_locales):
 
 {footer}
 
+<script src="{ap}app-lang.js"></script>
 </body>
 </html>
 '''
@@ -355,6 +359,7 @@ def gen_support(locale, strings, all_locales):
 # Legal pages: privacy, terms, eula — keep English content, just translate chrome
 def gen_legal_page(locale, strings, all_locales, page_name, page_title_en, content_html):
     """Legal pages keep English content body but get localized chrome (header/footer/nav)."""
+    ap = asset_prefix(locale)
     title = f"{page_title_en} — ExitCall"
     desc = f"{page_title_en} for ExitCall."
 
@@ -372,6 +377,7 @@ def gen_legal_page(locale, strings, all_locales, page_name, page_title_en, conte
 
 {footer}
 
+<script src="{ap}app-lang.js"></script>
 </body>
 </html>
 '''
