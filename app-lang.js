@@ -4,9 +4,12 @@
   var fromApp = params.get('from') === 'app';
   var lang = params.get('lang');
 
-  // Hide language picker when opened from app
+  // Hide language picker + app install prompts when opened from app
   if (fromApp) {
     document.body.classList.add('from-app');
+    // Remove Safari Smart App Banner
+    var smartBanner = document.querySelector('meta[name="apple-itunes-app"]');
+    if (smartBanner) smartBanner.remove();
   }
 
   // Redirect to correct locale if needed
