@@ -137,7 +137,7 @@ def build_head(locale, page_name, strings, title, description, all_locales, extr
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="{title}">
   <meta name="twitter:description" content="{description}">
-  <meta name="apple-itunes-app" content="app-id=0000000000">
+  <meta name="apple-itunes-app" content="app-id=6763378665">
   <meta name="robots" content="index, follow">
   <link rel="icon" type="image/png" href="{ap}favicon.png">
   <link rel="apple-touch-icon" href="{ap}app-icon-180.png">
@@ -182,7 +182,7 @@ def gen_index(locale, strings, all_locales):
     <img src="{ap}app-icon-180.png" alt="ExitCall app icon" class="hero-icon" width="120" height="120">
     <h1>{t(strings, "hero_title", locale)}</h1>
     <p class="subtitle">{t(strings, "hero_subtitle", locale)}</p>
-    <a href="https://apps.apple.com/app/exitcall/id0000000000" class="app-store-badge" aria-label="{t(strings, "download_badge_alt", locale)}">
+    <a href="https://apps.apple.com/app/exitcall/id6763378665" class="app-store-badge" aria-label="{t(strings, "download_badge_alt", locale)}">
       <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="{t(strings, "download_badge_alt", locale)}" width="180" height="60">
     </a>
   </section>
@@ -247,7 +247,7 @@ def gen_index(locale, strings, all_locales):
   <section class="cta-section">
     <h2>{t(strings, "cta_title", locale)}</h2>
     <p>{t(strings, "cta_subtitle", locale)}</p>
-    <a href="https://apps.apple.com/app/exitcall/id0000000000" class="app-store-badge" aria-label="{t(strings, "download_badge_alt", locale)}">
+    <a href="https://apps.apple.com/app/exitcall/id6763378665" class="app-store-badge" aria-label="{t(strings, "download_badge_alt", locale)}">
       <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="{t(strings, "download_badge_alt", locale)}" width="180" height="60">
     </a>
   </section>
