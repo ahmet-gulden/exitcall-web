@@ -103,8 +103,7 @@ def build_footer(locale, strings):
     <div class="container">
       <div class="footer-links">
         <a href="{lp}privacy.html">{t(strings, "footer_privacy", locale)}</a>
-        <a href="{lp}terms.html">{t(strings, "footer_terms", locale)}</a>
-        <a href="{lp}eula.html">{t(strings, "footer_eula", locale)}</a>
+        <a href="{lp}responsible-use.html">{t(strings, "footer_responsible", locale)}</a>
         <a href="{lp}faq.html">{t(strings, "nav_faq", locale)}</a>
         <a href="{lp}support.html">{t(strings, "nav_support", locale)}</a>
       </div>
@@ -356,63 +355,11 @@ def gen_support(locale, strings, all_locales):
     return head + "\n" + body
 
 
-# Legal pages: privacy, terms, eula — fully localized
-
-def gen_terms(locale, strings, all_locales):
-    ap = asset_prefix(locale)
-    title = f"{t(strings, 'terms_title', locale)} — ExitCall"
-    desc = t(strings, "terms_intro", locale)[:120]
-
-    head = build_head(locale, "terms.html", strings, title, desc, all_locales)
-    header = build_header(locale, "terms.html", strings)
-    footer = build_footer(locale, strings)
-
-    body = f'''<body>
-
-{header}
-
-  <div class="page-content">
-    <h1>{t(strings, "terms_title", locale)}</h1>
-    <p class="meta">{t(strings, "terms_updated", locale)}</p>
-
-    <p>{t(strings, "terms_intro", locale)}</p>
-
-    <h2>{t(strings, "terms_h_service", locale)}</h2>
-    <p>{t(strings, "terms_p_service", locale)}</p>
-
-    <h2>{t(strings, "terms_h_subs", locale)}</h2>
-    <p>{t(strings, "terms_p_subs", locale)}</p>
-
-    <h2>{t(strings, "terms_h_trial", locale)}</h2>
-    <p>{t(strings, "terms_p_trial", locale)}</p>
-
-    <h2>{t(strings, "terms_h_use", locale)}</h2>
-    <p>{t(strings, "terms_p_use", locale)}</p>
-
-    <h2>{t(strings, "terms_h_ip", locale)}</h2>
-    <p>{t(strings, "terms_p_ip", locale)}</p>
-
-    <h2>{t(strings, "terms_h_disclaimer", locale)}</h2>
-    <p>{t(strings, "terms_p_disclaimer", locale)}</p>
-
-    <h2>{t(strings, "terms_h_liability", locale)}</h2>
-    <p>{t(strings, "terms_p_liability", locale)}</p>
-
-    <h2>{t(strings, "terms_h_changes", locale)}</h2>
-    <p>{t(strings, "terms_p_changes", locale)}</p>
-
-    <h2>{t(strings, "legal_h_contact", locale)}</h2>
-    <p>{t(strings, "legal_contact", locale)}</p>
-  </div>
-
-{footer}
-
-<script src="{ap}app-lang.js"></script>
-</body>
-</html>
-'''
-    return head + "\n" + body
-
+# Legal pages: privacy + responsible-use only.
+# Custom Terms / EULA were retired 2026-04-28 in favour of Apple's
+# standard EULA (set in App Store Connect → App Information →
+# License Agreement). The single per-app legal extension we still
+# ship is the Responsible Use policy below.
 
 def gen_privacy(locale, strings, all_locales):
     ap = asset_prefix(locale)
@@ -466,13 +413,13 @@ def gen_privacy(locale, strings, all_locales):
     return head + "\n" + body
 
 
-def gen_eula(locale, strings, all_locales):
+def gen_responsible_use(locale, strings, all_locales):
     ap = asset_prefix(locale)
-    title = f"{t(strings, 'eula_title', locale)} — ExitCall"
-    desc = t(strings, "eula_intro", locale)[:120]
+    title = f"{t(strings, 'responsible_title', locale)} — ExitCall"
+    desc = t(strings, "responsible_intro", locale)[:120]
 
-    head = build_head(locale, "eula.html", strings, title, desc, all_locales)
-    header = build_header(locale, "eula.html", strings)
+    head = build_head(locale, "responsible-use.html", strings, title, desc, all_locales)
+    header = build_header(locale, "responsible-use.html", strings)
     footer = build_footer(locale, strings)
 
     body = f'''<body>
@@ -480,34 +427,32 @@ def gen_eula(locale, strings, all_locales):
 {header}
 
   <div class="page-content">
-    <h1>{t(strings, "eula_title", locale)}</h1>
-    <p class="meta">{t(strings, "eula_updated", locale)}</p>
+    <h1>{t(strings, "responsible_title", locale)}</h1>
+    <p class="meta">{t(strings, "responsible_updated", locale)}</p>
 
-    <p>{t(strings, "eula_intro", locale)}</p>
+    <p>{t(strings, "responsible_intro", locale)}</p>
 
-    <h2>{t(strings, "eula_h_license", locale)}</h2>
-    <p>{t(strings, "eula_p_license", locale)}</p>
+    <h2>{t(strings, "responsible_h_intended", locale)}</h2>
+    <p>{t(strings, "responsible_p_intended", locale)}</p>
 
-    <h2>{t(strings, "eula_h_restrictions", locale)}</h2>
-    <p>{t(strings, "eula_p_restrictions", locale)}</p>
+    <h2>{t(strings, "responsible_h_prohibited", locale)}</h2>
+    <p>{t(strings, "responsible_p_prohibited", locale)}</p>
+    <ul>
+      <li>{t(strings, "responsible_li_impersonate", locale)}</li>
+      <li>{t(strings, "responsible_li_evade", locale)}</li>
+      <li>{t(strings, "responsible_li_harass", locale)}</li>
+      <li>{t(strings, "responsible_li_minors", locale)}</li>
+      <li>{t(strings, "responsible_li_fraud", locale)}</li>
+    </ul>
 
-    <h2>{t(strings, "eula_h_ownership", locale)}</h2>
-    <p>{t(strings, "eula_p_ownership", locale)}</p>
+    <h2>{t(strings, "responsible_h_personas", locale)}</h2>
+    <p>{t(strings, "responsible_p_personas", locale)}</p>
 
-    <h2>{t(strings, "eula_h_termination", locale)}</h2>
-    <p>{t(strings, "eula_p_termination", locale)}</p>
+    <h2>{t(strings, "responsible_h_enforcement", locale)}</h2>
+    <p>{t(strings, "responsible_p_enforcement", locale)}</p>
 
-    <h2>{t(strings, "eula_h_disclaimer", locale)}</h2>
-    <p>{t(strings, "eula_p_disclaimer", locale)}</p>
-
-    <h2>{t(strings, "eula_h_liability", locale)}</h2>
-    <p>{t(strings, "eula_p_liability", locale)}</p>
-
-    <h2>{t(strings, "eula_h_apple", locale)}</h2>
-    <p>{t(strings, "eula_p_apple", locale)}</p>
-
-    <h2>{t(strings, "legal_h_contact", locale)}</h2>
-    <p>{t(strings, "legal_contact", locale)}</p>
+    <h2>{t(strings, "responsible_h_report", locale)}</h2>
+    <p>{t(strings, "responsible_p_report", locale)}</p>
   </div>
 
 {footer}
@@ -541,8 +486,7 @@ def main():
             "faq.html": gen_faq(locale, strings, all_locales),
             "support.html": gen_support(locale, strings, all_locales),
             "privacy.html": gen_privacy(locale, strings, all_locales),
-            "terms.html": gen_terms(locale, strings, all_locales),
-            "eula.html": gen_eula(locale, strings, all_locales),
+            "responsible-use.html": gen_responsible_use(locale, strings, all_locales),
         }
 
         for page_name, html in pages.items():
@@ -560,7 +504,7 @@ def main():
 
 def gen_sitemap(all_locales):
     """Generate sitemap.xml with all localized pages."""
-    pages = ["index.html", "faq.html", "support.html", "privacy.html", "terms.html", "eula.html"]
+    pages = ["index.html", "faq.html", "support.html", "privacy.html", "responsible-use.html"]
 
     urls = []
     for page in pages:
