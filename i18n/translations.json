@@ -5,12 +5,15 @@
     "es",
     "fr",
     "hi",
+    "id",
     "it",
     "ja",
     "ko",
     "pt-BR",
     "ru",
+    "th",
     "tr",
+    "vi",
     "zh-Hans"
   ],
   "strings": {
@@ -27,7 +30,10 @@
       "pt-BR": "Recursos",
       "ru": "Возможности",
       "tr": "Özellikler",
-      "zh-Hans": "功能"
+      "zh-Hans": "功能",
+      "vi": "Tính năng",
+      "id": "Fitur",
+      "th": "ฟีเจอร์"
     },
     "nav_how": {
       "en": "How It Works",
@@ -42,7 +48,10 @@
       "pt-BR": "Como funciona",
       "ru": "Как это работает",
       "tr": "Nasıl Çalışır",
-      "zh-Hans": "工作原理"
+      "zh-Hans": "工作原理",
+      "vi": "Cách hoạt động",
+      "id": "Cara Kerja",
+      "th": "วิธีใช้งาน"
     },
     "nav_faq": {
       "en": "FAQ",
@@ -57,7 +66,10 @@
       "pt-BR": "Perguntas frequentes",
       "ru": "Вопросы и ответы",
       "tr": "SSS",
-      "zh-Hans": "常见问题"
+      "zh-Hans": "常见问题",
+      "vi": "Câu hỏi thường gặp",
+      "id": "Tanya Jawab",
+      "th": "คำถามที่พบบ่อย"
     },
     "nav_support": {
       "en": "Support",
@@ -72,7 +84,10 @@
       "pt-BR": "Suporte",
       "ru": "Поддержка",
       "tr": "Destek",
-      "zh-Hans": "支持"
+      "zh-Hans": "支持",
+      "vi": "Hỗ trợ",
+      "id": "Dukungan",
+      "th": "สนับสนุน"
     },
     "hero_title": {
       "en": "Your exit strategy,<br>one tap away.",
@@ -87,7 +102,10 @@
       "pt-BR": "Sua estratégia de saída,<br>a um toque.",
       "ru": "Ваш план побега —<br>одно касание.",
       "tr": "Çıkış stratejin,<br>tek dokunuş uzağında.",
-      "zh-Hans": "你的脱身策略，<br>一键即达。"
+      "zh-Hans": "你的脱身策略，<br>一键即达。",
+      "vi": "Chiến lược thoát của bạn,<br>chỉ một chạm.",
+      "id": "Strategi keluarmu,<br>sejauh satu ketukan.",
+      "th": "กลยุทธ์ทางออกของคุณ<br>เพียงแตะครั้งเดียว"
     },
     "hero_subtitle": {
       "en": "ExitCall sends you a realistic incoming call so you can leave any situation gracefully. Pick a character, set a delay, and your phone rings on cue.",
@@ -102,7 +120,10 @@
       "pt-BR": "O ExitCall envia uma chamada realista para você sair de qualquer situação com elegância. Escolha um personagem, defina um atraso e seu telefone toca na hora certa.",
       "ru": "ExitCall отправляет вам реалистичный входящий звонок, чтобы вы могли элегантно покинуть любую ситуацию. Выберите персонажа, установите задержку — и ваш телефон зазвонит по команде.",
       "tr": "ExitCall sana gerçekçi bir gelen arama göndererek her durumdan zarifçe çıkmanı sağlar. Bir karakter seç, gecikme ayarla ve telefonun tam zamanında çalsın.",
-      "zh-Hans": "ExitCall 向您发送一个逼真的来电，让您优雅地离开任何场合。选择一个角色，设置延迟，您的手机就会准时响起。"
+      "zh-Hans": "ExitCall 向您发送一个逼真的来电，让您优雅地离开任何场合。选择一个角色，设置延迟，您的手机就会准时响起。",
+      "vi": "ExitCall gửi một cuộc gọi đến như thật để bạn có thể rời khỏi mọi tình huống một cách khéo léo. Chọn nhân vật, đặt thời gian, và điện thoại sẽ đổ chuông đúng lúc.",
+      "id": "ExitCall mengirim panggilan masuk realistis agar kamu bisa meninggalkan situasi apa pun dengan santun. Pilih karakter, atur penundaan, lalu ponselmu berdering tepat waktu.",
+      "th": "ExitCall ส่งสายเรียกเข้าที่เหมือนจริงให้คุณ เพื่อให้คุณออกจากสถานการณ์ใดก็ได้อย่างสง่างาม เลือกตัวละคร ตั้งเวลาหน่วง แล้วโทรศัพท์จะดังตามเวลาที่กำหนด"
     },
     "download_badge_alt": {
       "en": "Download on the App Store",
@@ -117,7 +138,10 @@
       "pt-BR": "Baixar na App Store",
       "ru": "Загрузить в App Store",
       "tr": "App Store'dan İndir",
-      "zh-Hans": "在 App Store 下载"
+      "zh-Hans": "在 App Store 下载",
+      "vi": "Tải về trên App Store",
+      "id": "Unduh di App Store",
+      "th": "ดาวน์โหลดบน App Store"
     },
     "section_features": {
       "en": "Features",
@@ -132,7 +156,10 @@
       "pt-BR": "Recursos",
       "ru": "Возможности",
       "tr": "Özellikler",
-      "zh-Hans": "功能"
+      "zh-Hans": "功能",
+      "vi": "Tính năng",
+      "id": "Fitur",
+      "th": "ฟีเจอร์"
     },
     "feature1_title": {
       "en": "Realistic Calls",
@@ -147,7 +174,10 @@
       "pt-BR": "Chamadas realistas",
       "ru": "Реалистичные звонки",
       "tr": "Gerçekçi Aramalar",
-      "zh-Hans": "逼真来电"
+      "zh-Hans": "逼真来电",
+      "vi": "Cuộc gọi như thật",
+      "id": "Panggilan Realistis",
+      "th": "สายโทรที่เหมือนจริง"
     },
     "feature1_desc": {
       "en": "Full incoming call screen with VoIP technology. Looks and sounds like a real phone call to everyone around you.",
@@ -162,7 +192,10 @@
       "pt-BR": "Tela completa de chamada recebida com tecnologia VoIP. Parece e soa como uma ligação real para todos ao seu redor.",
       "ru": "Полноценный экран входящего звонка с технологией VoIP. Выглядит и звучит как настоящий звонок для всех вокруг.",
       "tr": "VoIP teknolojisi ile tam gelen arama ekranı. Etrafınızdaki herkes için gerçek bir telefon görüşmesi gibi görünür ve duyulur.",
-      "zh-Hans": "采用VoIP技术的完整来电界面。在周围人看来，完全像一通真实的电话。"
+      "zh-Hans": "采用VoIP技术的完整来电界面。在周围人看来，完全像一通真实的电话。",
+      "vi": "Màn hình cuộc gọi đến đầy đủ với công nghệ VoIP. Trông và nghe giống như một cuộc gọi thật với mọi người xung quanh.",
+      "id": "Layar panggilan masuk penuh dengan teknologi VoIP. Terlihat dan terdengar seperti panggilan asli bagi semua orang di sekitarmu.",
+      "th": "หน้าจอสายเรียกเข้าเต็มจอด้วยเทคโนโลยี VoIP ดูและฟังเหมือนสายโทรจริงสำหรับทุกคนรอบข้าง"
     },
     "feature2_title": {
       "en": "Pick Your Caller",
@@ -177,7 +210,10 @@
       "pt-BR": "Escolha quem liga",
       "ru": "Выберите звонящего",
       "tr": "Arayanı Seç",
-      "zh-Hans": "选择来电人"
+      "zh-Hans": "选择来电人",
+      "vi": "Chọn người gọi",
+      "id": "Pilih Pemanggilmu",
+      "th": "เลือกผู้โทรของคุณ"
     },
     "feature2_desc": {
       "en": "Choose from different characters — each with their own voice, name, and conversation style. Customize names and genders.",
@@ -192,7 +228,10 @@
       "pt-BR": "Escolha entre diferentes personagens — cada um com voz, nome e estilo de conversa próprios. Personalize nomes e gêneros.",
       "ru": "Выбирайте из разных персонажей — каждый со своим голосом, именем и стилем разговора. Настраивайте имена и пол.",
       "tr": "Farklı karakterler arasından seç — her birinin kendine ait sesi, adı ve konuşma tarzı var. İsimleri ve cinsiyetleri özelleştir.",
-      "zh-Hans": "从不同角色中选择——每个角色都有自己的声音、名字和对话风格。自定义名字和性别。"
+      "zh-Hans": "从不同角色中选择——每个角色都有自己的声音、名字和对话风格。自定义名字和性别。",
+      "vi": "Chọn từ các nhân vật khác nhau — mỗi người có giọng nói, tên và phong cách trò chuyện riêng. Tùy chỉnh tên và giới tính.",
+      "id": "Pilih dari berbagai karakter — masing-masing dengan suara, nama, dan gaya percakapan sendiri. Sesuaikan nama dan jenis kelamin.",
+      "th": "เลือกจากตัวละครต่างๆ — แต่ละตัวมีเสียง ชื่อ และสไตล์การสนทนาของตัวเอง ปรับแต่งชื่อและเพศได้"
     },
     "feature3_title": {
       "en": "Tap or Schedule",
@@ -207,7 +246,10 @@
       "pt-BR": "Toque ou agende",
       "ru": "Нажмите или запланируйте",
       "tr": "Dokun veya Planla",
-      "zh-Hans": "点击或预约"
+      "zh-Hans": "点击或预约",
+      "vi": "Gọi ngay hoặc lên lịch",
+      "id": "Ketuk atau Jadwalkan",
+      "th": "แตะหรือตั้งเวลา"
     },
     "feature3_desc": {
       "en": "Need an exit in 30 seconds? Tap and go. Need one at 3pm tomorrow? Schedule it. Your call arrives right on time.",
@@ -222,7 +264,10 @@
       "pt-BR": "Precisa de uma saída em 30 segundos? Toque e vá. Precisa de uma amanhã às 15h? Agende. Sua chamada chega na hora certa.",
       "ru": "Нужен выход через 30 секунд? Нажмите и идите. Нужен завтра в 15:00? Запланируйте. Ваш звонок приходит точно вовремя.",
       "tr": "30 saniye içinde çıkış mı lazım? Dokun ve git. Yarın saat 15:00'te mi? Planla. Araman tam zamanında gelir.",
-      "zh-Hans": "需要30秒内脱身？点击即走。需要明天下午3点？预约它。来电准时送达。"
+      "zh-Hans": "需要30秒内脱身？点击即走。需要明天下午3点？预约它。来电准时送达。",
+      "vi": "Cần lối thoát trong 30 giây? Chạm và đi. Cần một cuộc lúc 3 giờ chiều mai? Lên lịch. Cuộc gọi đến đúng giờ.",
+      "id": "Butuh jalan keluar dalam 30 detik? Ketuk dan pergi. Butuh satu di jam 3 sore besok? Jadwalkan. Panggilanmu datang tepat waktu.",
+      "th": "ต้องการทางออกใน 30 วินาที? แตะแล้วไปเลย ต้องการตอน 15.00 น. พรุ่งนี้? ตั้งเวลาไว้ สายของคุณจะมาถึงตรงเวลา"
     },
     "feature4_title": {
       "en": "Widget &amp; Live Activity",
@@ -237,7 +282,10 @@
       "pt-BR": "Widget &amp; Atividade ao Vivo",
       "ru": "Виджет и Live Activity",
       "tr": "Widget &amp; Canlı Etkinlik",
-      "zh-Hans": "小组件和实时活动"
+      "zh-Hans": "小组件和实时活动",
+      "vi": "Widget &amp; Live Activity",
+      "id": "Widget &amp; Live Activity",
+      "th": "วิดเจ็ต &amp; Live Activity"
     },
     "feature4_desc": {
       "en": "Start a call from your home screen or lock screen widget. See the countdown in your Dynamic Island.",
@@ -252,7 +300,10 @@
       "pt-BR": "Inicie uma chamada pelo widget da tela inicial ou de bloqueio. Veja a contagem regressiva na Dynamic Island.",
       "ru": "Запустите звонок с виджета на главном экране или экране блокировки. Следите за обратным отсчётом в Dynamic Island.",
       "tr": "Ana ekran veya kilit ekranı widget'ından arama başlat. Geri sayımı Dynamic Island'da gör.",
-      "zh-Hans": "从主屏幕或锁屏小组件发起来电。在灵动岛查看倒计时。"
+      "zh-Hans": "从主屏幕或锁屏小组件发起来电。在灵动岛查看倒计时。",
+      "vi": "Bắt đầu cuộc gọi từ widget màn hình chính hoặc màn hình khóa. Xem đếm ngược trong Dynamic Island.",
+      "id": "Mulai panggilan dari widget layar beranda atau layar kunci. Lihat hitung mundur di Dynamic Island.",
+      "th": "เริ่มสายจากวิดเจ็ตหน้าจอหลักหรือหน้าจอล็อก ดูเวลานับถอยหลังใน Dynamic Island"
     },
     "feature5_title": {
       "en": "AI Voice Conversations",
@@ -267,7 +318,10 @@
       "pt-BR": "Conversas com voz IA",
       "ru": "Голосовые ИИ-разговоры",
       "tr": "Yapay Zeka Sesli Konuşmalar",
-      "zh-Hans": "AI语音对话"
+      "zh-Hans": "AI语音对话",
+      "vi": "Hội thoại AI bằng giọng nói",
+      "id": "Percakapan Suara AI",
+      "th": "การสนทนาด้วยเสียง AI"
     },
     "feature5_desc": {
       "en": "When you answer, you'll hear a natural text-to-speech conversation. Not a recording — generated fresh every time.",
@@ -282,7 +336,10 @@
       "pt-BR": "Ao atender, você ouvirá uma conversa natural gerada por texto para fala. Não é uma gravação — gerada do zero a cada vez.",
       "ru": "Когда вы ответите, вы услышите естественный разговор, озвученный синтезом речи. Не запись — генерируется заново каждый раз.",
       "tr": "Cevapladığında, doğal bir metinden sese dönüştürülmüş konuşma duyacaksın. Kayıt değil — her seferinde yeniden oluşturulur.",
-      "zh-Hans": "接听后，您将听到自然的文字转语音对话。不是录音——每次都重新生成。"
+      "zh-Hans": "接听后，您将听到自然的文字转语音对话。不是录音——每次都重新生成。",
+      "vi": "Khi bạn nghe máy, bạn sẽ nghe một cuộc hội thoại text-to-speech tự nhiên. Không phải bản ghi — được tạo mới mỗi lần.",
+      "id": "Saat kamu menjawab, kamu akan mendengar percakapan text-to-speech yang natural. Bukan rekaman — dibuat baru setiap kali.",
+      "th": "เมื่อคุณรับสาย คุณจะได้ยินการสนทนา text-to-speech ที่เป็นธรรมชาติ ไม่ใช่การบันทึก — สร้างขึ้นใหม่ทุกครั้ง"
     },
     "feature6_title": {
       "en": "Private by Design",
@@ -297,7 +354,10 @@
       "pt-BR": "Privado por design",
       "ru": "Приватность по умолчанию",
       "tr": "Tasarımda Gizlilik",
-      "zh-Hans": "隐私至上设计"
+      "zh-Hans": "隐私至上设计",
+      "vi": "Riêng tư theo thiết kế",
+      "id": "Privat Sejak Desain",
+      "th": "เป็นส่วนตัวตั้งแต่ออกแบบ"
     },
     "feature6_desc": {
       "en": "No accounts. No data on our servers. Your call history and settings stay on your device.",
@@ -312,7 +372,10 @@
       "pt-BR": "Sem contas. Sem dados nos nossos servidores. Seu histórico de chamadas e configurações ficam no seu dispositivo.",
       "ru": "Без аккаунтов. Без данных на наших серверах. Ваша история звонков и настройки остаются на вашем устройстве.",
       "tr": "Hesap yok. Sunucularımızda veri yok. Arama geçmişin ve ayarların cihazında kalır.",
-      "zh-Hans": "无需账户。服务器上无数据。通话记录和设置仅保存在您的设备上。"
+      "zh-Hans": "无需账户。服务器上无数据。通话记录和设置仅保存在您的设备上。",
+      "vi": "Không cần tài khoản. Không có dữ liệu trên máy chủ của chúng tôi. Lịch sử cuộc gọi và cài đặt ở lại trên thiết bị của bạn.",
+      "id": "Tanpa akun. Tanpa data di server kami. Riwayat panggilan dan pengaturanmu tetap di perangkatmu.",
+      "th": "ไม่มีบัญชี ไม่มีข้อมูลบนเซิร์ฟเวอร์ของเรา ประวัติการโทรและการตั้งค่าของคุณอยู่บนเครื่องของคุณ"
     },
     "how_title": {
       "en": "How It Works",
@@ -327,7 +390,10 @@
       "pt-BR": "Como funciona",
       "ru": "Как это работает",
       "tr": "Nasıl Çalışır",
-      "zh-Hans": "工作原理"
+      "zh-Hans": "工作原理",
+      "vi": "Cách hoạt động",
+      "id": "Cara Kerja",
+      "th": "วิธีใช้งาน"
     },
     "step1_title": {
       "en": "Pick a character",
@@ -342,7 +408,10 @@
       "pt-BR": "Escolha um personagem",
       "ru": "Выберите персонажа",
       "tr": "Bir karakter seç",
-      "zh-Hans": "选择角色"
+      "zh-Hans": "选择角色",
+      "vi": "Chọn nhân vật",
+      "id": "Pilih karakter",
+      "th": "เลือกตัวละคร"
     },
     "step1_desc": {
       "en": "Choose who's calling you — a friend, your boss, a family member.",
@@ -357,7 +426,10 @@
       "pt-BR": "Escolha quem está ligando — um amigo, seu chefe, um familiar.",
       "ru": "Выберите, кто вам звонит — друг, начальник, член семьи.",
       "tr": "Seni kimin aradığını seç — bir arkadaş, patronun, bir aile üyesi.",
-      "zh-Hans": "选择谁在给你打电话——朋友、老板或家人。"
+      "zh-Hans": "选择谁在给你打电话——朋友、老板或家人。",
+      "vi": "Chọn ai sẽ gọi bạn — một người bạn, sếp, hay người thân.",
+      "id": "Pilih siapa yang akan meneleponmu — teman, bosmu, anggota keluarga.",
+      "th": "เลือกว่าใครจะโทรหาคุณ — เพื่อน เจ้านาย หรือสมาชิกในครอบครัว"
     },
     "step2_title": {
       "en": "Set the delay",
@@ -372,7 +444,10 @@
       "pt-BR": "Defina o atraso",
       "ru": "Установите задержку",
       "tr": "Gecikmeyi ayarla",
-      "zh-Hans": "设置延迟"
+      "zh-Hans": "设置延迟",
+      "vi": "Đặt thời gian trì hoãn",
+      "id": "Atur penundaan",
+      "th": "ตั้งเวลาหน่วง"
     },
     "step2_desc": {
       "en": "10 seconds, 5 minutes, or schedule an exact time.",
@@ -387,7 +462,10 @@
       "pt-BR": "10 segundos, 5 minutos, ou agende um horário exato.",
       "ru": "10 секунд, 5 минут или точное время.",
       "tr": "10 saniye, 5 dakika veya tam bir saat planla.",
-      "zh-Hans": "10秒、5分钟，或预约精确时间。"
+      "zh-Hans": "10秒、5分钟，或预约精确时间。",
+      "vi": "10 giây, 5 phút, hoặc đặt lịch chính xác.",
+      "id": "10 detik, 5 menit, atau jadwalkan waktu pasti.",
+      "th": "10 วินาที 5 นาที หรือกำหนดเวลาที่แม่นยำ"
     },
     "step3_title": {
       "en": "Get called",
@@ -402,7 +480,10 @@
       "pt-BR": "Receba a ligação",
       "ru": "Получите звонок",
       "tr": "Aranmayı bekle",
-      "zh-Hans": "接到来电"
+      "zh-Hans": "接到来电",
+      "vi": "Nhận cuộc gọi",
+      "id": "Terima panggilan",
+      "th": "รับสาย"
     },
     "step3_desc": {
       "en": "Your phone rings like a real call. Answer it and walk away.",
@@ -417,7 +498,10 @@
       "pt-BR": "Seu telefone toca como uma chamada real. Atenda e saia.",
       "ru": "Ваш телефон звонит как настоящий. Ответьте и уходите.",
       "tr": "Telefonun gerçek bir arama gibi çalar. Cevapla ve çık.",
-      "zh-Hans": "您的手机像真实来电一样响起。接听然后离开。"
+      "zh-Hans": "您的手机像真实来电一样响起。接听然后离开。",
+      "vi": "Điện thoại đổ chuông như một cuộc gọi thật. Nghe máy và rời đi.",
+      "id": "Ponselmu berdering seperti panggilan asli. Angkat dan pergi.",
+      "th": "โทรศัพท์ของคุณดังเหมือนสายจริง รับสายแล้วเดินจากไป"
     },
     "cta_title": {
       "en": "Ready for your next exit?",
@@ -432,7 +516,10 @@
       "pt-BR": "Pronto para sua próxima saída?",
       "ru": "Готовы к следующему побегу?",
       "tr": "Bir sonraki çıkışına hazır mısın?",
-      "zh-Hans": "准备好你的下一次脱身了吗？"
+      "zh-Hans": "准备好你的下一次脱身了吗？",
+      "vi": "Sẵn sàng cho lối thoát tiếp theo?",
+      "id": "Siap untuk jalan keluar berikutnya?",
+      "th": "พร้อมสำหรับทางออกครั้งต่อไปแล้วหรือยัง?"
     },
     "cta_subtitle": {
       "en": "Download ExitCall for free. Your first 3 days are on us.",
@@ -447,7 +534,10 @@
       "pt-BR": "Baixe o ExitCall gratuitamente. Os primeiros 3 dias são por nossa conta.",
       "ru": "Скачайте ExitCall бесплатно. Первые 3 дня — за наш счёт.",
       "tr": "ExitCall'ı ücretsiz indir. İlk 3 gün bizden.",
-      "zh-Hans": "免费下载ExitCall。前3天由我们请客。"
+      "zh-Hans": "免费下载ExitCall。前3天由我们请客。",
+      "vi": "Tải ExitCall miễn phí. 3 ngày đầu tiên miễn phí.",
+      "id": "Unduh ExitCall gratis. 3 hari pertama gratis.",
+      "th": "ดาวน์โหลด ExitCall ฟรี 3 วันแรกฟรี"
     },
     "footer_privacy": {
       "en": "Privacy Policy",
@@ -462,7 +552,10 @@
       "pt-BR": "Política de privacidade",
       "ru": "Политика конфиденциальности",
       "tr": "Gizlilik Politikası",
-      "zh-Hans": "隐私政策"
+      "zh-Hans": "隐私政策",
+      "vi": "Chính sách Bảo mật",
+      "id": "Kebijakan Privasi",
+      "th": "นโยบายความเป็นส่วนตัว"
     },
     "footer_terms": {
       "en": "Terms of Service",
@@ -477,7 +570,10 @@
       "pt-BR": "Termos de serviço",
       "ru": "Условия использования",
       "tr": "Kullanım Şartları",
-      "zh-Hans": "服务条款"
+      "zh-Hans": "服务条款",
+      "vi": "Điều khoản Dịch vụ",
+      "id": "Syarat Layanan",
+      "th": "ข้อกำหนดการให้บริการ"
     },
     "footer_eula": {
       "en": "EULA",
@@ -492,7 +588,10 @@
       "pt-BR": "EULA",
       "ru": "Лицензионное соглашение",
       "tr": "EULA",
-      "zh-Hans": "最终用户许可协议"
+      "zh-Hans": "最终用户许可协议",
+      "vi": "EULA",
+      "id": "EULA",
+      "th": "EULA"
     },
     "footer_copyright": {
       "en": "&copy; 2026 ExitCall. All rights reserved.",
@@ -507,7 +606,10 @@
       "pt-BR": "&copy; 2026 ExitCall. Todos os direitos reservados.",
       "ru": "&copy; 2026 ExitCall. Все права защищены.",
       "tr": "&copy; 2026 ExitCall. Tüm hakları saklıdır.",
-      "zh-Hans": "&copy; 2026 ExitCall. 保留所有权利。"
+      "zh-Hans": "&copy; 2026 ExitCall. 保留所有权利。",
+      "vi": "&copy; 2026 ExitCall. Bảo lưu mọi quyền.",
+      "id": "&copy; 2026 ExitCall. Semua hak dilindungi.",
+      "th": "&copy; 2026 ExitCall สงวนลิขสิทธิ์ทั้งหมด"
     },
     "page_title_index": {
       "en": "ExitCall — Fake Call App for iPhone | Escape Any Situation",
@@ -522,7 +624,10 @@
       "pt-BR": "ExitCall — App de Chamada Falsa para iPhone | Escape de Qualquer Situação",
       "ru": "ExitCall — Приложение Ложных Звонков для iPhone | Выход из Любой Ситуации",
       "tr": "ExitCall — iPhone için Sahte Arama Uygulaması | Her Durumdan Çık",
-      "zh-Hans": "ExitCall — iPhone假电话应用 | 从任何场合脱身"
+      "zh-Hans": "ExitCall — iPhone假电话应用 | 从任何场合脱身",
+      "vi": "ExitCall — Ứng dụng cuộc gọi giả cho iPhone | Thoát mọi tình huống",
+      "id": "ExitCall — Aplikasi Panggilan Palsu untuk iPhone | Kabur dari Situasi Apa Pun",
+      "th": "ExitCall — แอปสายโทรปลอมสำหรับ iPhone | หนีจากทุกสถานการณ์"
     },
     "meta_desc_index": {
       "en": "ExitCall simulates realistic incoming phone calls so you can leave awkward situations gracefully. Schedule or tap — your phone rings on cue. Free on iPhone.",
@@ -537,7 +642,10 @@
       "pt-BR": "O ExitCall simula chamadas recebidas realistas para você sair de situações desconfortáveis com elegância. Agende ou toque — seu telefone toca na hora. Grátis no iPhone.",
       "ru": "ExitCall имитирует реалистичные входящие звонки, чтобы вы могли элегантно покинуть неловкие ситуации. Запланируйте или нажмите — ваш телефон зазвонит по команде. Бесплатно на iPhone.",
       "tr": "ExitCall, garip durumlardan zarifçe çıkabilmeniz için gerçekçi gelen aramalar simüle eder. Planla veya dokun — telefonun tam zamanında çalar. iPhone'da ücretsiz.",
-      "zh-Hans": "ExitCall模拟逼真的来电，让您优雅地离开尴尬场合。预约或点击——手机准时响起。iPhone免费使用。"
+      "zh-Hans": "ExitCall模拟逼真的来电，让您优雅地离开尴尬场合。预约或点击——手机准时响起。iPhone免费使用。",
+      "vi": "ExitCall mô phỏng cuộc gọi đến chân thực để bạn rời khỏi tình huống khó xử một cách khéo léo. Đặt lịch hoặc chạm — điện thoại đổ chuông đúng lúc. Miễn phí trên iPhone.",
+      "id": "ExitCall mensimulasikan panggilan masuk realistis agar kamu bisa meninggalkan situasi canggung dengan santun. Jadwalkan atau ketuk — ponselmu berdering tepat waktu. Gratis di iPhone.",
+      "th": "ExitCall จำลองสายเรียกเข้าที่เหมือนจริง เพื่อให้คุณออกจากสถานการณ์อึดอัดได้อย่างสง่างาม ตั้งเวลาหรือแตะ — โทรศัพท์จะดังตรงเวลา ฟรีบน iPhone"
     },
     "faq_title": {
       "en": "Frequently Asked Questions",
@@ -552,7 +660,10 @@
       "pt-BR": "Perguntas frequentes",
       "ru": "Часто задаваемые вопросы",
       "tr": "Sıkça Sorulan Sorular",
-      "zh-Hans": "常见问题"
+      "zh-Hans": "常见问题",
+      "vi": "Câu hỏi thường gặp",
+      "id": "Pertanyaan yang Sering Diajukan",
+      "th": "คำถามที่พบบ่อย"
     },
     "faq_q1": {
       "en": "What is ExitCall?",
@@ -567,7 +678,10 @@
       "pt-BR": "O que é o ExitCall?",
       "ru": "Что такое ExitCall?",
       "tr": "ExitCall nedir?",
-      "zh-Hans": "什么是ExitCall？"
+      "zh-Hans": "什么是ExitCall？",
+      "vi": "ExitCall là gì?",
+      "id": "Apa itu ExitCall?",
+      "th": "ExitCall คืออะไร?"
     },
     "faq_a1": {
       "en": "ExitCall is an app that simulates realistic incoming phone calls to help you leave uncomfortable or awkward situations gracefully.",
@@ -582,7 +696,10 @@
       "pt-BR": "O ExitCall é um app que simula chamadas recebidas realistas para ajudar você a sair de situações desconfortáveis com elegância.",
       "ru": "ExitCall — это приложение, которое имитирует реалистичные входящие звонки, помогая вам элегантно покинуть неудобные ситуации.",
       "tr": "ExitCall, rahatsız edici veya garip durumlardan zarifçe çıkmanıza yardımcı olmak için gerçekçi gelen aramalar simüle eden bir uygulamadır.",
-      "zh-Hans": "ExitCall是一款模拟逼真来电的应用，帮助您优雅地离开不舒适或尴尬的场合。"
+      "zh-Hans": "ExitCall是一款模拟逼真来电的应用，帮助您优雅地离开不舒适或尴尬的场合。",
+      "vi": "ExitCall là ứng dụng mô phỏng cuộc gọi đến chân thực để giúp bạn rời khỏi những tình huống khó xử hoặc không thoải mái một cách khéo léo.",
+      "id": "ExitCall adalah aplikasi yang mensimulasikan panggilan masuk realistis untuk membantumu meninggalkan situasi yang tidak nyaman atau canggung dengan santun.",
+      "th": "ExitCall คือแอปที่จำลองสายเรียกเข้าที่เหมือนจริง เพื่อช่วยให้คุณออกจากสถานการณ์ไม่สบายใจหรืออึดอัดได้อย่างสง่างาม"
     },
     "faq_q2": {
       "en": "How does it work?",
@@ -597,7 +714,10 @@
       "pt-BR": "Como funciona?",
       "ru": "Как это работает?",
       "tr": "Nasıl çalışır?",
-      "zh-Hans": "它是如何工作的？"
+      "zh-Hans": "它是如何工作的？",
+      "vi": "Nó hoạt động như thế nào?",
+      "id": "Bagaimana cara kerjanya?",
+      "th": "มันทำงานอย่างไร?"
     },
     "faq_a2": {
       "en": "Set a delay or schedule a time, and ExitCall will ring your phone with a realistic incoming call. When you answer, you'll hear a voice conversation generated by text-to-speech. To anyone around you, it looks and sounds like a real phone call.",
@@ -612,7 +732,10 @@
       "pt-BR": "Defina um atraso ou agende um horário, e o ExitCall fará seu telefone tocar com uma chamada realista. Ao atender, você ouvirá uma conversa gerada por texto para fala. Para qualquer pessoa ao seu redor, parece uma ligação real.",
       "ru": "Установите задержку или запланируйте время, и ExitCall позвонит на ваш телефон с реалистичным входящим звонком. Когда вы ответите, вы услышите голосовой разговор, сгенерированный синтезом речи. Для окружающих это выглядит и звучит как настоящий звонок.",
       "tr": "Bir gecikme ayarla veya bir saat planla, ExitCall telefonunu gerçekçi bir gelen arama ile çaldıracak. Cevapladığında, metinden sese dönüştürülmüş bir konuşma duyacaksın. Etrafındaki herkes için gerçek bir telefon görüşmesi gibi görünür ve duyulur.",
-      "zh-Hans": "设置延迟或预约时间，ExitCall会以逼真的来电让您的手机响起。接听后，您将听到文字转语音生成的对话。对周围的人来说，这看起来和听起来都像真正的电话。"
+      "zh-Hans": "设置延迟或预约时间，ExitCall会以逼真的来电让您的手机响起。接听后，您将听到文字转语音生成的对话。对周围的人来说，这看起来和听起来都像真正的电话。",
+      "vi": "Đặt thời gian trì hoãn hoặc lên lịch, và ExitCall sẽ làm điện thoại của bạn đổ chuông bằng một cuộc gọi đến chân thực. Khi bạn nghe máy, bạn sẽ nghe một cuộc hội thoại bằng giọng nói được tạo bởi text-to-speech. Với những người xung quanh, nó trông và nghe giống một cuộc gọi thật.",
+      "id": "Atur penundaan atau jadwalkan waktu, dan ExitCall akan membuat ponselmu berdering dengan panggilan masuk realistis. Saat kamu menjawab, kamu akan mendengar percakapan suara yang dihasilkan oleh text-to-speech. Bagi semua orang di sekitar, terlihat dan terdengar seperti panggilan asli.",
+      "th": "ตั้งเวลาหน่วงหรือกำหนดเวลา แล้ว ExitCall จะทำให้โทรศัพท์ของคุณดังด้วยสายเรียกเข้าที่เหมือนจริง เมื่อคุณรับสาย คุณจะได้ยินบทสนทนาด้วยเสียงที่สร้างโดย text-to-speech สำหรับคนรอบข้าง มันจะดูและฟังเหมือนสายโทรจริง"
     },
     "faq_q3": {
       "en": "Is the call real?",
@@ -627,7 +750,10 @@
       "pt-BR": "A ligação é real?",
       "ru": "Звонок настоящий?",
       "tr": "Arama gerçek mi?",
-      "zh-Hans": "来电是真的吗？"
+      "zh-Hans": "来电是真的吗？",
+      "vi": "Cuộc gọi có thật không?",
+      "id": "Apakah panggilannya asli?",
+      "th": "สายโทรจริงหรือเปล่า?"
     },
     "faq_a3": {
       "en": "No. ExitCall simulates an incoming call using VoIP technology. It does not make actual phone calls or connect to another person.",
@@ -642,7 +768,10 @@
       "pt-BR": "Não. O ExitCall simula uma chamada recebida usando tecnologia VoIP. Ele não faz ligações reais nem conecta a outra pessoa.",
       "ru": "Нет. ExitCall имитирует входящий звонок с помощью технологии VoIP. Он не совершает реальных звонков и не соединяет с другим человеком.",
       "tr": "Hayır. ExitCall, VoIP teknolojisi kullanarak gelen bir aramayı simüle eder. Gerçek telefon araması yapmaz veya başka bir kişiye bağlanmaz.",
-      "zh-Hans": "不是。ExitCall使用VoIP技术模拟来电。它不会拨打真实电话或连接到其他人。"
+      "zh-Hans": "不是。ExitCall使用VoIP技术模拟来电。它不会拨打真实电话或连接到其他人。",
+      "vi": "Không. ExitCall mô phỏng cuộc gọi đến bằng công nghệ VoIP. Nó không thực hiện cuộc gọi thực sự hay kết nối với người khác.",
+      "id": "Tidak. ExitCall mensimulasikan panggilan masuk menggunakan teknologi VoIP. Tidak melakukan panggilan telepon yang sebenarnya atau terhubung ke orang lain.",
+      "th": "ไม่ใช่ ExitCall จำลองสายเรียกเข้าด้วยเทคโนโลยี VoIP มันไม่ได้ทำการโทรจริงหรือเชื่อมต่อกับคนอื่น"
     },
     "faq_q4": {
       "en": "Do I need an internet connection?",
@@ -657,7 +786,10 @@
       "pt-BR": "Preciso de conexão com a internet?",
       "ru": "Нужно ли подключение к интернету?",
       "tr": "İnternet bağlantısı gerekli mi?",
-      "zh-Hans": "需要互联网连接吗？"
+      "zh-Hans": "需要互联网连接吗？",
+      "vi": "Tôi có cần kết nối internet không?",
+      "id": "Apakah saya butuh koneksi internet?",
+      "th": "ต้องใช้อินเทอร์เน็ตไหม?"
     },
     "faq_a4": {
       "en": "An internet connection is needed to schedule calls (the server sends you a push notification at the scheduled time). The call itself works offline once it starts.",
@@ -672,7 +804,10 @@
       "pt-BR": "Uma conexão com a internet é necessária para agendar chamadas (o servidor envia uma notificação push no horário agendado). A chamada em si funciona offline após iniciar.",
       "ru": "Подключение к интернету нужно для планирования звонков (сервер отправляет push-уведомление в назначенное время). Сам звонок работает офлайн после начала.",
       "tr": "Aramaları planlamak için internet bağlantısı gereklidir (sunucu planlanan saatte push bildirimi gönderir). Arama başladıktan sonra çevrimdışı çalışır.",
-      "zh-Hans": "预约来电需要互联网连接（服务器在预定时间向您发送推送通知）。来电开始后可离线使用。"
+      "zh-Hans": "预约来电需要互联网连接（服务器在预定时间向您发送推送通知）。来电开始后可离线使用。",
+      "vi": "Cần kết nối internet để lên lịch cuộc gọi (máy chủ gửi thông báo đẩy vào thời điểm đã hẹn). Bản thân cuộc gọi hoạt động ngoại tuyến sau khi bắt đầu.",
+      "id": "Koneksi internet diperlukan untuk menjadwalkan panggilan (server mengirim notifikasi push pada waktu yang dijadwalkan). Panggilan itu sendiri bekerja offline setelah dimulai.",
+      "th": "ต้องใช้อินเทอร์เน็ตเพื่อตั้งเวลาสาย (เซิร์ฟเวอร์จะส่งการแจ้งเตือนแบบพุชในเวลาที่ตั้งไว้) ตัวสายโทรเองทำงานออฟไลน์ได้เมื่อเริ่มแล้ว"
     },
     "faq_q5": {
       "en": "What does the free trial include?",
@@ -687,7 +822,10 @@
       "pt-BR": "O que o teste gratuito inclui?",
       "ru": "Что включает бесплатный пробный период?",
       "tr": "Ücretsiz deneme neleri içerir?",
-      "zh-Hans": "免费试用包含什么？"
+      "zh-Hans": "免费试用包含什么？",
+      "vi": "Bản dùng thử miễn phí bao gồm những gì?",
+      "id": "Apa yang termasuk dalam uji coba gratis?",
+      "th": "การทดลองฟรีรวมอะไรบ้าง?"
     },
     "faq_a5": {
       "en": "New users get full access to all features for 3 days. After the trial, some features require a Pro subscription.",
@@ -702,7 +840,10 @@
       "pt-BR": "Novos usuários têm acesso completo a todos os recursos por 3 dias. Após o teste, alguns recursos exigem uma assinatura Pro.",
       "ru": "Новые пользователи получают полный доступ ко всем функциям на 3 дня. После пробного периода некоторые функции требуют подписки Pro.",
       "tr": "Yeni kullanıcılar 3 gün boyunca tüm özelliklere tam erişim elde eder. Deneme süresinden sonra bazı özellikler Pro aboneliği gerektirir.",
-      "zh-Hans": "新用户可在3天内完全使用所有功能。试用期后，部分功能需要Pro订阅。"
+      "zh-Hans": "新用户可在3天内完全使用所有功能。试用期后，部分功能需要Pro订阅。",
+      "vi": "Người dùng mới được truy cập đầy đủ mọi tính năng trong 3 ngày. Sau khi dùng thử, một số tính năng yêu cầu đăng ký Pro.",
+      "id": "Pengguna baru mendapatkan akses penuh ke semua fitur selama 3 hari. Setelah uji coba, beberapa fitur memerlukan langganan Pro.",
+      "th": "ผู้ใช้ใหม่จะเข้าถึงทุกฟีเจอร์ได้เต็มรูปแบบเป็นเวลา 3 วัน หลังจากทดลอง บางฟีเจอร์ต้องการการสมัคร Pro"
     },
     "faq_q6": {
       "en": "How do I cancel my subscription?",
@@ -717,7 +858,10 @@
       "pt-BR": "Como cancelo minha assinatura?",
       "ru": "Как отменить подписку?",
       "tr": "Aboneliğimi nasıl iptal ederim?",
-      "zh-Hans": "如何取消订阅？"
+      "zh-Hans": "如何取消订阅？",
+      "vi": "Làm thế nào để hủy đăng ký?",
+      "id": "Bagaimana cara membatalkan langganan?",
+      "th": "ยกเลิกการสมัครได้อย่างไร?"
     },
     "faq_a6": {
       "en": "Go to Settings on your device, tap your Apple ID, then Subscriptions, and select ExitCall to manage or cancel.",
@@ -732,7 +876,10 @@
       "pt-BR": "Vá em Ajustes no seu dispositivo, toque no seu Apple ID, depois Assinaturas, e selecione ExitCall para gerenciar ou cancelar.",
       "ru": "Перейдите в Настройки на устройстве, нажмите на Apple ID, затем Подписки и выберите ExitCall для управления или отмены.",
       "tr": "Cihazınızda Ayarlar'a gidin, Apple ID'nize dokunun, ardından Abonelikler'e gidin ve yönetmek veya iptal etmek için ExitCall'ı seçin.",
-      "zh-Hans": "在设备上打开设置，点击您的Apple ID，然后点击订阅，选择ExitCall进行管理或取消。"
+      "zh-Hans": "在设备上打开设置，点击您的Apple ID，然后点击订阅，选择ExitCall进行管理或取消。",
+      "vi": "Vào Cài đặt trên thiết bị, chạm vào Apple ID, sau đó Đăng ký, và chọn ExitCall để quản lý hoặc hủy.",
+      "id": "Buka Pengaturan di perangkatmu, ketuk Apple ID, lalu Langganan, dan pilih ExitCall untuk mengelola atau membatalkan.",
+      "th": "ไปที่การตั้งค่าบนเครื่องของคุณ แตะ Apple ID แล้วการสมัคร และเลือก ExitCall เพื่อจัดการหรือยกเลิก"
     },
     "faq_q7": {
       "en": "I have another question",
@@ -747,7 +894,10 @@
       "pt-BR": "Tenho outra pergunta",
       "ru": "У меня другой вопрос",
       "tr": "Başka bir sorum var",
-      "zh-Hans": "我有其他问题"
+      "zh-Hans": "我有其他问题",
+      "vi": "Tôi có câu hỏi khác",
+      "id": "Saya punya pertanyaan lain",
+      "th": "ฉันมีคำถามอื่น"
     },
     "faq_a7": {
       "en": "Email us at <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — we're happy to help.",
@@ -762,7 +912,10 @@
       "pt-BR": "Envie um e-mail para <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — ficaremos felizes em ajudar.",
       "ru": "Напишите нам на <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — мы будем рады помочь.",
       "tr": "Bize <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> adresinden e-posta gönderin — yardımcı olmaktan mutluluk duyarız.",
-      "zh-Hans": "请发邮件至 <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — 我们很乐意为您提供帮助。"
+      "zh-Hans": "请发邮件至 <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — 我们很乐意为您提供帮助。",
+      "vi": "Gửi email cho chúng tôi tại <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — chúng tôi sẵn lòng giúp đỡ.",
+      "id": "Email kami di <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — kami senang membantu.",
+      "th": "ส่งอีเมลถึงเราที่ <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> — เรายินดีช่วยเหลือ"
     },
     "support_title": {
       "en": "Support",
@@ -777,7 +930,10 @@
       "pt-BR": "Suporte",
       "ru": "Поддержка",
       "tr": "Destek",
-      "zh-Hans": "支持"
+      "zh-Hans": "支持",
+      "vi": "Hỗ trợ",
+      "id": "Dukungan",
+      "th": "สนับสนุน"
     },
     "support_intro": {
       "en": "Having trouble with ExitCall? We're here to help.",
@@ -792,7 +948,10 @@
       "pt-BR": "Tendo problemas com o ExitCall? Estamos aqui para ajudar.",
       "ru": "Проблемы с ExitCall? Мы здесь, чтобы помочь.",
       "tr": "ExitCall ile sorun mu yaşıyorsun? Yardımcı olmak için buradayız.",
-      "zh-Hans": "使用ExitCall遇到问题？我们在这里为您提供帮助。"
+      "zh-Hans": "使用ExitCall遇到问题？我们在这里为您提供帮助。",
+      "vi": "Gặp sự cố với ExitCall? Chúng tôi luôn sẵn sàng giúp đỡ.",
+      "id": "Mengalami masalah dengan ExitCall? Kami di sini untuk membantu.",
+      "th": "มีปัญหากับ ExitCall? เราพร้อมช่วยเหลือ"
     },
     "support_contact_title": {
       "en": "Contact Us",
@@ -807,7 +966,10 @@
       "pt-BR": "Fale conosco",
       "ru": "Свяжитесь с нами",
       "tr": "Bize Ulaşın",
-      "zh-Hans": "联系我们"
+      "zh-Hans": "联系我们",
+      "vi": "Liên hệ với chúng tôi",
+      "id": "Hubungi Kami",
+      "th": "ติดต่อเรา"
     },
     "support_contact_email": {
       "en": "Email: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
@@ -822,7 +984,10 @@
       "pt-BR": "E-mail: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
       "ru": "Электронная почта: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
       "tr": "E-posta: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
-      "zh-Hans": "电子邮件: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>"
+      "zh-Hans": "电子邮件: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
+      "vi": "Email: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
+      "id": "Email: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
+      "th": "อีเมล: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>"
     },
     "support_response_time": {
       "en": "We aim to respond within 1-2 business days.",
@@ -837,7 +1002,10 @@
       "pt-BR": "Nosso objetivo é responder em 1-2 dias úteis.",
       "ru": "Мы стараемся ответить в течение 1-2 рабочих дней.",
       "tr": "1-2 iş günü içinde yanıt vermeyi hedefliyoruz.",
-      "zh-Hans": "我们的目标是在1-2个工作日内回复。"
+      "zh-Hans": "我们的目标是在1-2个工作日内回复。",
+      "vi": "Chúng tôi cố gắng phản hồi trong vòng 1-2 ngày làm việc.",
+      "id": "Kami berusaha merespons dalam 1-2 hari kerja.",
+      "th": "เราพยายามตอบกลับภายใน 1-2 วันทำการ"
     },
     "support_q_schedule": {
       "en": "How do I schedule a call?",
@@ -852,7 +1020,10 @@
       "pt-BR": "Como agendo uma chamada?",
       "ru": "Как запланировать звонок?",
       "tr": "Bir aramayı nasıl planlarım?",
-      "zh-Hans": "如何预约来电？"
+      "zh-Hans": "如何预约来电？",
+      "vi": "Làm thế nào để lên lịch cuộc gọi?",
+      "id": "Bagaimana cara menjadwalkan panggilan?",
+      "th": "ตั้งเวลาโทรอย่างไร?"
     },
     "support_a_schedule": {
       "en": "Open ExitCall, pick a character, and set a delay or schedule a specific time. The call will arrive as a real incoming call notification at the set time.",
@@ -867,7 +1038,10 @@
       "pt-BR": "Abra o ExitCall, escolha um personagem e defina um atraso ou agende um horário específico. A chamada chegará como uma notificação de chamada real no horário definido.",
       "ru": "Откройте ExitCall, выберите персонажа и установите задержку или запланируйте конкретное время. Звонок придёт как настоящее уведомление о входящем звонке в установленное время.",
       "tr": "ExitCall'ı aç, bir karakter seç ve bir gecikme ayarla veya belirli bir saat planla. Arama, ayarlanan saatte gerçek bir gelen arama bildirimi olarak gelecektir.",
-      "zh-Hans": "打开ExitCall，选择一个角色，设置延迟或预约具体时间。来电将在设定时间以真实来电通知的形式到达。"
+      "zh-Hans": "打开ExitCall，选择一个角色，设置延迟或预约具体时间。来电将在设定时间以真实来电通知的形式到达。",
+      "vi": "Mở ExitCall, chọn nhân vật, và đặt thời gian trì hoãn hoặc lên lịch thời gian cụ thể. Cuộc gọi sẽ đến dưới dạng thông báo cuộc gọi đến thật vào thời điểm đã đặt.",
+      "id": "Buka ExitCall, pilih karakter, dan atur penundaan atau jadwalkan waktu tertentu. Panggilan akan datang sebagai notifikasi panggilan masuk asli pada waktu yang ditetapkan.",
+      "th": "เปิด ExitCall เลือกตัวละคร และตั้งเวลาหน่วงหรือกำหนดเวลาเจาะจง สายจะมาถึงเป็นการแจ้งเตือนสายเรียกเข้าจริงในเวลาที่ตั้งไว้"
     },
     "support_q_pro": {
       "en": "What is Pro?",
@@ -882,7 +1056,10 @@
       "pt-BR": "O que é o Pro?",
       "ru": "Что такое Pro?",
       "tr": "Pro nedir?",
-      "zh-Hans": "什么是Pro？"
+      "zh-Hans": "什么是Pro？",
+      "vi": "Pro là gì?",
+      "id": "Apa itu Pro?",
+      "th": "Pro คืออะไร?"
     },
     "support_a_pro": {
       "en": "Pro removes the daily call limit and unlocks all characters. You can subscribe monthly or annually from the app.",
@@ -897,7 +1074,10 @@
       "pt-BR": "O Pro remove o limite diário de chamadas e desbloqueia todos os personagens. Você pode assinar mensalmente ou anualmente pelo app.",
       "ru": "Pro снимает дневной лимит звонков и открывает всех персонажей. Подписаться можно помесячно или ежегодно в приложении.",
       "tr": "Pro günlük arama limitini kaldırır ve tüm karakterlerin kilidini açar. Uygulamadan aylık veya yıllık abone olabilirsin.",
-      "zh-Hans": "Pro取消每日通话限制并解锁所有角色。您可以在应用内按月或按年订阅。"
+      "zh-Hans": "Pro取消每日通话限制并解锁所有角色。您可以在应用内按月或按年订阅。",
+      "vi": "Pro loại bỏ giới hạn cuộc gọi hàng ngày và mở khóa tất cả nhân vật. Bạn có thể đăng ký hàng tháng hoặc hàng năm từ ứng dụng.",
+      "id": "Pro menghilangkan batas panggilan harian dan membuka semua karakter. Kamu bisa berlangganan bulanan atau tahunan dari aplikasi.",
+      "th": "Pro ลบขีดจำกัดการโทรรายวันและปลดล็อกตัวละครทั้งหมด คุณสามารถสมัครรายเดือนหรือรายปีจากแอปได้"
     },
     "support_q_cancel": {
       "en": "How do I cancel my subscription?",
@@ -912,7 +1092,10 @@
       "pt-BR": "Como cancelo minha assinatura?",
       "ru": "Как отменить подписку?",
       "tr": "Aboneliğimi nasıl iptal ederim?",
-      "zh-Hans": "如何取消订阅？"
+      "zh-Hans": "如何取消订阅？",
+      "vi": "Làm thế nào để hủy đăng ký?",
+      "id": "Bagaimana cara membatalkan langganan?",
+      "th": "ยกเลิกการสมัครได้อย่างไร?"
     },
     "support_a_cancel": {
       "en": "Open Settings on your device, tap your Apple ID, then Subscriptions, and select ExitCall to manage or cancel. Apple manages all billing.",
@@ -927,7 +1110,10 @@
       "pt-BR": "Abra Ajustes no seu dispositivo, toque no seu Apple ID, depois Assinaturas, e selecione ExitCall para gerenciar ou cancelar. A Apple gerencia toda a cobrança.",
       "ru": "Откройте Настройки на устройстве, нажмите на Apple ID, затем Подписки и выберите ExitCall. Apple управляет всей оплатой.",
       "tr": "Cihazınızda Ayarlar'ı açın, Apple ID'nize dokunun, ardından Abonelikler'e gidin ve ExitCall'ı seçin. Apple tüm faturalandırmayı yönetir.",
-      "zh-Hans": "在设备上打开设置，点击您的Apple ID，然后点击订阅，选择ExitCall进行管理或取消。所有计费由Apple管理。"
+      "zh-Hans": "在设备上打开设置，点击您的Apple ID，然后点击订阅，选择ExitCall进行管理或取消。所有计费由Apple管理。",
+      "vi": "Mở Cài đặt trên thiết bị, chạm vào Apple ID, sau đó Đăng ký, và chọn ExitCall để quản lý hoặc hủy. Apple quản lý mọi hóa đơn.",
+      "id": "Buka Pengaturan di perangkatmu, ketuk Apple ID, lalu Langganan, dan pilih ExitCall untuk mengelola atau membatalkan. Apple mengelola semua tagihan.",
+      "th": "เปิดการตั้งค่าบนเครื่องของคุณ แตะ Apple ID แล้วการสมัคร และเลือก ExitCall เพื่อจัดการหรือยกเลิก Apple จัดการการเรียกเก็บเงินทั้งหมด"
     },
     "support_q_noarrive": {
       "en": "The call didn't arrive",
@@ -942,7 +1128,10 @@
       "pt-BR": "A ligação não chegou",
       "ru": "Звонок не пришёл",
       "tr": "Arama gelmedi",
-      "zh-Hans": "来电没有到达"
+      "zh-Hans": "来电没有到达",
+      "vi": "Cuộc gọi không đến",
+      "id": "Panggilan tidak datang",
+      "th": "สายไม่เข้ามา"
     },
     "support_a_noarrive": {
       "en": "Make sure notifications are enabled for ExitCall in Settings. Scheduled calls require notification permission to work.",
@@ -957,7 +1146,10 @@
       "pt-BR": "Verifique se as notificações estão ativadas para o ExitCall nos Ajustes. Chamadas agendadas precisam de permissão de notificação para funcionar.",
       "ru": "Убедитесь, что уведомления для ExitCall включены в Настройках. Запланированные звонки требуют разрешения на уведомления.",
       "tr": "Ayarlar'da ExitCall için bildirimlerin etkin olduğundan emin olun. Planlanan aramalar çalışmak için bildirim izni gerektirir.",
-      "zh-Hans": "请确保在设置中为ExitCall启用了通知。预约来电需要通知权限才能工作。"
+      "zh-Hans": "请确保在设置中为ExitCall启用了通知。预约来电需要通知权限才能工作。",
+      "vi": "Đảm bảo bạn đã bật thông báo cho ExitCall trong Cài đặt. Cuộc gọi đã lên lịch cần quyền thông báo để hoạt động.",
+      "id": "Pastikan notifikasi diaktifkan untuk ExitCall di Pengaturan. Panggilan terjadwal memerlukan izin notifikasi untuk berfungsi.",
+      "th": "ตรวจสอบให้แน่ใจว่าเปิดการแจ้งเตือนสำหรับ ExitCall ในการตั้งค่าแล้ว สายที่ตั้งเวลาต้องการสิทธิ์การแจ้งเตือนเพื่อทำงาน"
     },
     "support_q_more": {
       "en": "Still need help?",
@@ -972,7 +1164,10 @@
       "pt-BR": "Ainda precisa de ajuda?",
       "ru": "Всё ещё нужна помощь?",
       "tr": "Hâlâ yardıma mı ihtiyacın var?",
-      "zh-Hans": "仍需要帮助？"
+      "zh-Hans": "仍需要帮助？",
+      "vi": "Vẫn cần trợ giúp?",
+      "id": "Masih butuh bantuan?",
+      "th": "ยังต้องการความช่วยเหลือ?"
     },
     "support_a_more": {
       "en": "Check our <a href=\"/faq.html\">FAQ page</a> or email us directly.",
@@ -987,7 +1182,10 @@
       "pt-BR": "Consulte nossa <a href=\"/faq.html\">página de perguntas frequentes</a> ou envie um e-mail diretamente.",
       "ru": "Загляните на нашу <a href=\"/faq.html\">страницу FAQ</a> или напишите нам напрямую.",
       "tr": "<a href=\"/faq.html\">SSS sayfamızı</a> kontrol edin veya bize doğrudan e-posta gönderin.",
-      "zh-Hans": "查看我们的<a href=\"/faq.html\">常见问题页面</a>或直接给我们发邮件。"
+      "zh-Hans": "查看我们的<a href=\"/faq.html\">常见问题页面</a>或直接给我们发邮件。",
+      "vi": "Xem <a href=\"/faq.html\">trang Câu hỏi thường gặp</a> hoặc gửi email trực tiếp cho chúng tôi.",
+      "id": "Lihat <a href=\"/faq.html\">halaman Tanya Jawab</a> atau email kami langsung.",
+      "th": "ดู<a href=\"/faq.html\">หน้าคำถามที่พบบ่อย</a> หรือส่งอีเมลถึงเราโดยตรง"
     },
     "lang_switch_label": {
       "en": "Language",
@@ -1002,7 +1200,10 @@
       "pt-BR": "Idioma",
       "ru": "Язык",
       "tr": "Dil",
-      "zh-Hans": "语言"
+      "zh-Hans": "语言",
+      "vi": "Ngôn ngữ",
+      "id": "Bahasa",
+      "th": "ภาษา"
     },
     "terms_title": {
       "en": "Terms of Service",
@@ -1017,7 +1218,10 @@
       "pt-BR": "Termos de Serviço",
       "ru": "Условия использования",
       "tr": "Kullanım Koşulları",
-      "zh-Hans": "服务条款"
+      "zh-Hans": "服务条款",
+      "vi": "Điều khoản Dịch vụ",
+      "id": "Syarat Layanan",
+      "th": "ข้อกำหนดการให้บริการ"
     },
     "terms_updated": {
       "en": "Last updated: April 12, 2026",
@@ -1032,7 +1236,10 @@
       "pt-BR": "Última atualização: 12 de abril de 2026",
       "ru": "Последнее обновление: 12 апреля 2026 г.",
       "tr": "Son güncelleme: 12 Nisan 2026",
-      "zh-Hans": "最后更新：2026年4月12日"
+      "zh-Hans": "最后更新：2026年4月12日",
+      "vi": "Cập nhật lần cuối: 12 tháng 4, 2026",
+      "id": "Terakhir diperbarui: 12 April 2026",
+      "th": "อัปเดตล่าสุด: 12 เมษายน 2026"
     },
     "terms_intro": {
       "en": "By using ExitCall (\"the App\"), you agree to these terms. If you do not agree, do not use the App.",
@@ -1047,7 +1254,10 @@
       "pt-BR": "Ao usar o ExitCall (\"o App\"), você concorda com estes termos. Se não concordar, não use o App.",
       "ru": "Используя ExitCall («Приложение»), вы соглашаетесь с настоящими условиями. Если вы не согласны, не используйте Приложение.",
       "tr": "ExitCall'ı (\"Uygulama\") kullanarak bu koşulları kabul etmiş olursunuz. Kabul etmiyorsanız, Uygulamayı kullanmayın.",
-      "zh-Hans": "使用 ExitCall（“本应用”）即表示您同意这些条款。如果您不同意，请勿使用本应用。"
+      "zh-Hans": "使用 ExitCall（“本应用”）即表示您同意这些条款。如果您不同意，请勿使用本应用。",
+      "vi": "Bằng cách sử dụng ExitCall (\"Ứng dụng\"), bạn đồng ý với các điều khoản này. Nếu bạn không đồng ý, không sử dụng Ứng dụng.",
+      "id": "Dengan menggunakan ExitCall (\"Aplikasi\"), kamu menyetujui syarat ini. Jika tidak setuju, jangan gunakan Aplikasi.",
+      "th": "การใช้ ExitCall (\"แอป\") คุณยอมรับข้อกำหนดเหล่านี้ หากไม่ยอมรับ อย่าใช้แอป"
     },
     "terms_h_service": {
       "en": "Description of Service",
@@ -1062,7 +1272,10 @@
       "pt-BR": "Descrição do Serviço",
       "ru": "Описание сервиса",
       "tr": "Hizmet Açıklaması",
-      "zh-Hans": "服务说明"
+      "zh-Hans": "服务说明",
+      "vi": "Mô tả Dịch vụ",
+      "id": "Deskripsi Layanan",
+      "th": "คำอธิบายบริการ"
     },
     "terms_p_service": {
       "en": "ExitCall is a mobile application that simulates incoming phone calls to help you leave uncomfortable situations. The App uses text-to-speech to generate voice content during simulated calls.",
@@ -1077,7 +1290,10 @@
       "pt-BR": "O ExitCall é um aplicativo móvel que simula chamadas recebidas para ajudá-lo a sair de situações desconfortáveis. O App usa texto para fala para gerar conteúdo de voz durante chamadas simuladas.",
       "ru": "ExitCall — это мобильное приложение, которое имитирует входящие телефонные звонки, чтобы помочь вам покинуть неудобные ситуации. Приложение использует синтез речи для генерации голосового контента во время имитированных звонков.",
       "tr": "ExitCall, rahatsız edici durumlardan çıkmanıza yardımcı olmak için gelen aramaları simüle eden bir mobil uygulamadır. Uygulama, simüle edilmiş aramalar sırasında sesli içerik oluşturmak için metinden sese dönüştürme teknolojisi kullanır.",
-      "zh-Hans": "ExitCall 是一款模拟来电的移动应用程序，帮助您优雅地离开不舒适的场合。本应用使用文字转语音技术在模拟通话过程中生成语音内容。"
+      "zh-Hans": "ExitCall 是一款模拟来电的移动应用程序，帮助您优雅地离开不舒适的场合。本应用使用文字转语音技术在模拟通话过程中生成语音内容。",
+      "vi": "ExitCall là ứng dụng di động mô phỏng cuộc gọi đến để giúp bạn rời khỏi những tình huống không thoải mái. Ứng dụng sử dụng text-to-speech để tạo nội dung giọng nói trong các cuộc gọi mô phỏng.",
+      "id": "ExitCall adalah aplikasi seluler yang mensimulasikan panggilan masuk untuk membantumu meninggalkan situasi tidak nyaman. Aplikasi menggunakan text-to-speech untuk menghasilkan konten suara selama panggilan simulasi.",
+      "th": "ExitCall เป็นแอปพลิเคชันมือถือที่จำลองสายเรียกเข้าเพื่อช่วยให้คุณออกจากสถานการณ์ไม่สบายใจ แอปใช้ text-to-speech เพื่อสร้างเนื้อหาเสียงระหว่างการโทรจำลอง"
     },
     "terms_h_subs": {
       "en": "Subscriptions",
@@ -1092,7 +1308,10 @@
       "pt-BR": "Assinaturas",
       "ru": "Подписки",
       "tr": "Abonelikler",
-      "zh-Hans": "订阅"
+      "zh-Hans": "订阅",
+      "vi": "Đăng ký",
+      "id": "Langganan",
+      "th": "การสมัครสมาชิก"
     },
     "terms_p_subs": {
       "en": "ExitCall offers optional in-app subscriptions (monthly and annual) that unlock additional features. Subscriptions are billed through your Apple ID and automatically renew unless cancelled at least 24 hours before the end of the current period. You can manage or cancel subscriptions in your device's Settings.",
@@ -1107,7 +1326,10 @@
       "pt-BR": "O ExitCall oferece assinaturas opcionais no aplicativo (mensal e anual) que desbloqueiam recursos adicionais. As assinaturas são cobradas pelo seu ID Apple e renovadas automaticamente, a menos que sejam canceladas pelo menos 24 horas antes do final do período atual. Você pode gerenciar ou cancelar assinaturas nos Ajustes do seu dispositivo.",
       "ru": "ExitCall предлагает опциональные подписки в приложении (ежемесячные и годовые), которые открывают дополнительные функции. Подписки оплачиваются через ваш Apple ID и автоматически продлеваются, если не отменены как минимум за 24 часа до окончания текущего периода. Вы можете управлять подписками или отменить их в настройках устройства.",
       "tr": "ExitCall, ek özellikleri açan isteğe bağlı uygulama içi abonelikler (aylık ve yıllık) sunar. Abonelikler Apple ID'niz üzerinden faturalandırılır ve mevcut dönemin bitiminden en az 24 saat önce iptal edilmediği sürece otomatik olarak yenilenir. Abonelikleri cihazınızın Ayarlar bölümünden yönetebilir veya iptal edebilirsiniz.",
-      "zh-Hans": "ExitCall 提供可选的应用内订阅（月度和年度），可解锁额外功能。订阅通过您的 Apple ID 计费，除非在当前周期结束前至少 24 小时取消，否则将自动续订。您可以在设备的“设置”中管理或取消订阅。"
+      "zh-Hans": "ExitCall 提供可选的应用内订阅（月度和年度），可解锁额外功能。订阅通过您的 Apple ID 计费，除非在当前周期结束前至少 24 小时取消，否则将自动续订。您可以在设备的“设置”中管理或取消订阅。",
+      "vi": "ExitCall cung cấp các gói đăng ký tùy chọn trong ứng dụng (hàng tháng và hàng năm) để mở khóa tính năng bổ sung. Các gói đăng ký được thanh toán qua Apple ID của bạn và tự động gia hạn trừ khi bị hủy ít nhất 24 giờ trước khi kết thúc kỳ hiện tại. Bạn có thể quản lý hoặc hủy đăng ký trong Cài đặt thiết bị.",
+      "id": "ExitCall menawarkan langganan opsional dalam aplikasi (bulanan dan tahunan) yang membuka fitur tambahan. Langganan ditagih melalui Apple ID-mu dan diperbarui otomatis kecuali dibatalkan setidaknya 24 jam sebelum akhir periode saat ini. Kamu bisa mengelola atau membatalkan langganan di Pengaturan perangkat.",
+      "th": "ExitCall เสนอการสมัครสมาชิกในแอปแบบเลือกได้ (รายเดือนและรายปี) ที่ปลดล็อกฟีเจอร์เพิ่มเติม การสมัครเรียกเก็บผ่าน Apple ID ของคุณและต่ออายุอัตโนมัติ เว้นแต่ยกเลิกอย่างน้อย 24 ชั่วโมงก่อนสิ้นสุดรอบปัจจุบัน คุณสามารถจัดการหรือยกเลิกการสมัครได้ในการตั้งค่าของเครื่อง"
     },
     "terms_h_trial": {
       "en": "Free Trial",
@@ -1122,7 +1344,10 @@
       "pt-BR": "Teste gratuito",
       "ru": "Бесплатный пробный период",
       "tr": "Ücretsiz Deneme",
-      "zh-Hans": "免费试用"
+      "zh-Hans": "免费试用",
+      "vi": "Dùng thử miễn phí",
+      "id": "Uji Coba Gratis",
+      "th": "ทดลองใช้ฟรี"
     },
     "terms_p_trial": {
       "en": "New users receive a free trial period with full access. After the trial expires, some features require a paid subscription.",
@@ -1137,7 +1362,10 @@
       "pt-BR": "Novos usuários recebem um período de teste gratuito com acesso completo. Após o término do teste, alguns recursos exigem uma assinatura paga.",
       "ru": "Новые пользователи получают бесплатный пробный период с полным доступом. После окончания пробного периода некоторые функции требуют платной подписки.",
       "tr": "Yeni kullanıcılar tam erişimli ücretsiz bir deneme süresi alır. Deneme süresi sona erdikten sonra bazı özellikler ücretli abonelik gerektirir.",
-      "zh-Hans": "新用户可获得具有完整访问权限的免费试用期。试用期到期后，部分功能需要付费订阅。"
+      "zh-Hans": "新用户可获得具有完整访问权限的免费试用期。试用期到期后，部分功能需要付费订阅。",
+      "vi": "Người dùng mới nhận được thời gian dùng thử miễn phí với truy cập đầy đủ. Sau khi dùng thử hết hạn, một số tính năng yêu cầu đăng ký trả phí.",
+      "id": "Pengguna baru menerima periode uji coba gratis dengan akses penuh. Setelah uji coba berakhir, beberapa fitur memerlukan langganan berbayar.",
+      "th": "ผู้ใช้ใหม่จะได้รับช่วงทดลองฟรีพร้อมการเข้าถึงเต็มรูปแบบ เมื่อทดลองหมดอายุ บางฟีเจอร์ต้องการการสมัครแบบชำระเงิน"
     },
     "terms_h_use": {
       "en": "Acceptable Use",
@@ -1152,7 +1380,10 @@
       "pt-BR": "Uso aceitável",
       "ru": "Допустимое использование",
       "tr": "Kabul Edilebilir Kullanım",
-      "zh-Hans": "可接受的使用"
+      "zh-Hans": "可接受的使用",
+      "vi": "Sử dụng được chấp nhận",
+      "id": "Penggunaan yang Diizinkan",
+      "th": "การใช้งานที่ยอมรับได้"
     },
     "terms_p_use": {
       "en": "You agree not to use ExitCall for any unlawful purpose or in any way that could harm, disable, or impair the service.",
@@ -1167,7 +1398,10 @@
       "pt-BR": "Você concorda em não usar o ExitCall para fins ilegais ou de qualquer forma que possa prejudicar, desabilitar ou comprometer o serviço.",
       "ru": "Вы соглашаетесь не использовать ExitCall в незаконных целях или любым способом, который может нанести вред, отключить или нарушить работу сервиса.",
       "tr": "ExitCall'ı herhangi bir yasadışı amaçla veya hizmete zarar verebilecek, devre dışı bırakabilecek veya bozabilecek herhangi bir şekilde kullanmamayı kabul edersiniz.",
-      "zh-Hans": "您同意不会将 ExitCall 用于任何非法目的，也不会以可能损害、禁用或削弱服务的任何方式使用。"
+      "zh-Hans": "您同意不会将 ExitCall 用于任何非法目的，也不会以可能损害、禁用或削弱服务的任何方式使用。",
+      "vi": "Bạn đồng ý không sử dụng ExitCall cho mục đích bất hợp pháp hoặc theo bất kỳ cách nào có thể gây hại, vô hiệu hóa hoặc làm suy yếu dịch vụ.",
+      "id": "Kamu setuju tidak menggunakan ExitCall untuk tujuan melawan hukum atau dengan cara apa pun yang dapat merugikan, menonaktifkan, atau merusak layanan.",
+      "th": "คุณตกลงที่จะไม่ใช้ ExitCall เพื่อวัตถุประสงค์ผิดกฎหมายใดๆ หรือในลักษณะใดๆ ที่อาจทำให้บริการเสียหาย ปิดใช้งาน หรือเสื่อมประสิทธิภาพ"
     },
     "terms_h_ip": {
       "en": "Intellectual Property",
@@ -1182,7 +1416,10 @@
       "pt-BR": "Propriedade intelectual",
       "ru": "Интеллектуальная собственность",
       "tr": "Fikri Mülkiyet",
-      "zh-Hans": "知识产权"
+      "zh-Hans": "知识产权",
+      "vi": "Sở hữu Trí tuệ",
+      "id": "Kekayaan Intelektual",
+      "th": "ทรัพย์สินทางปัญญา"
     },
     "terms_p_ip": {
       "en": "All content, design, and code in ExitCall are owned by us and protected by applicable intellectual property laws.",
@@ -1197,7 +1434,10 @@
       "pt-BR": "Todo o conteúdo, design e código do ExitCall são de nossa propriedade e protegidos pelas leis de propriedade intelectual aplicáveis.",
       "ru": "Весь контент, дизайн и код ExitCall принадлежат нам и защищены применимым законодательством об интеллектуальной собственности.",
       "tr": "ExitCall'daki tüm içerik, tasarım ve kod bize aittir ve geçerli fikri mülkiyet yasaları ile korunmaktadır.",
-      "zh-Hans": "ExitCall 中的所有内容、设计和代码均归我们所有，并受适用知识产权法律的保护。"
+      "zh-Hans": "ExitCall 中的所有内容、设计和代码均归我们所有，并受适用知识产权法律的保护。",
+      "vi": "Tất cả nội dung, thiết kế và mã trong ExitCall thuộc sở hữu của chúng tôi và được bảo vệ bởi luật sở hữu trí tuệ hiện hành.",
+      "id": "Semua konten, desain, dan kode di ExitCall dimiliki oleh kami dan dilindungi oleh hukum kekayaan intelektual yang berlaku.",
+      "th": "เนื้อหา การออกแบบ และโค้ดทั้งหมดใน ExitCall เป็นของเราและได้รับการคุ้มครองโดยกฎหมายทรัพย์สินทางปัญญาที่บังคับใช้"
     },
     "terms_h_disclaimer": {
       "en": "Disclaimer",
@@ -1212,7 +1452,10 @@
       "pt-BR": "Isenção de responsabilidade",
       "ru": "Отказ от ответственности",
       "tr": "Sorumluluk Reddi",
-      "zh-Hans": "免责声明"
+      "zh-Hans": "免责声明",
+      "vi": "Tuyên bố từ chối",
+      "id": "Penafian",
+      "th": "ข้อความปฏิเสธ"
     },
     "terms_p_disclaimer": {
       "en": "ExitCall is provided \"as is\" without warranties of any kind. We are not responsible for any consequences arising from the use of simulated calls.",
@@ -1227,7 +1470,10 @@
       "pt-BR": "O ExitCall é fornecido \"como está\", sem garantias de qualquer tipo. Não somos responsáveis por quaisquer consequências decorrentes do uso de chamadas simuladas.",
       "ru": "ExitCall предоставляется «как есть» без каких-либо гарантий. Мы не несём ответственности за последствия использования имитированных звонков.",
       "tr": "ExitCall herhangi bir garanti olmaksızın \"olduğu gibi\" sunulmaktadır. Simüle edilmiş aramaların kullanımından doğan sonuçlardan sorumlu değiliz.",
-      "zh-Hans": "ExitCall 按“原样”提供，不附带任何形式的保证。我们不对使用模拟来电所产生的任何后果承担责任。"
+      "zh-Hans": "ExitCall 按“原样”提供，不附带任何形式的保证。我们不对使用模拟来电所产生的任何后果承担责任。",
+      "vi": "ExitCall được cung cấp \"như hiện trạng\" mà không có bảo đảm dưới bất kỳ hình thức nào. Chúng tôi không chịu trách nhiệm về bất kỳ hậu quả nào phát sinh từ việc sử dụng cuộc gọi mô phỏng.",
+      "id": "ExitCall disediakan \"apa adanya\" tanpa jaminan dalam bentuk apa pun. Kami tidak bertanggung jawab atas konsekuensi apa pun yang timbul dari penggunaan panggilan simulasi.",
+      "th": "ExitCall ให้บริการ \"ตามสภาพ\" โดยไม่มีการรับประกันใดๆ เราไม่รับผิดชอบต่อผลที่ตามมาจากการใช้สายโทรจำลอง"
     },
     "terms_h_liability": {
       "en": "Limitation of Liability",
@@ -1242,7 +1488,10 @@
       "pt-BR": "Limitação de responsabilidade",
       "ru": "Ограничение ответственности",
       "tr": "Sorumluluk Sınırlaması",
-      "zh-Hans": "责任限制"
+      "zh-Hans": "责任限制",
+      "vi": "Giới hạn Trách nhiệm",
+      "id": "Batasan Tanggung Jawab",
+      "th": "ข้อจำกัดความรับผิด"
     },
     "terms_p_liability": {
       "en": "To the maximum extent permitted by law, we shall not be liable for any indirect, incidental, or consequential damages arising from your use of the App.",
@@ -1257,7 +1506,10 @@
       "pt-BR": "Na máxima extensão permitida por lei, não seremos responsáveis por quaisquer danos indiretos, incidentais ou consequenciais decorrentes do uso do App.",
       "ru": "В максимальной степени, допускаемой законом, мы не несём ответственности за косвенные, случайные или последующие убытки, возникающие в результате использования вами Приложения.",
       "tr": "Yasanın izin verdiği azami ölçüde, Uygulamayı kullanımınızdan kaynaklanan dolaylı, arızi veya sonuç olarak ortaya çıkan zararlardan sorumlu olmayacağız.",
-      "zh-Hans": "在法律允许的最大范围内，我们不对因您使用本应用而产生的任何间接、附带或后果性损害承担责任。"
+      "zh-Hans": "在法律允许的最大范围内，我们不对因您使用本应用而产生的任何间接、附带或后果性损害承担责任。",
+      "vi": "Trong phạm vi tối đa được luật pháp cho phép, chúng tôi sẽ không chịu trách nhiệm về bất kỳ thiệt hại gián tiếp, ngẫu nhiên hoặc hệ quả nào phát sinh từ việc bạn sử dụng Ứng dụng.",
+      "id": "Sejauh diizinkan oleh hukum, kami tidak bertanggung jawab atas kerusakan tidak langsung, insidental, atau konsekuensial yang timbul dari penggunaan Aplikasi.",
+      "th": "ในขอบเขตสูงสุดที่กฎหมายอนุญาต เราจะไม่รับผิดต่อความเสียหายทางอ้อม โดยบังเอิญ หรือเป็นผลสืบเนื่องที่เกิดจากการใช้แอป"
     },
     "terms_h_changes": {
       "en": "Changes",
@@ -1272,7 +1524,10 @@
       "pt-BR": "Alterações",
       "ru": "Изменения",
       "tr": "Değişiklikler",
-      "zh-Hans": "变更"
+      "zh-Hans": "变更",
+      "vi": "Thay đổi",
+      "id": "Perubahan",
+      "th": "การเปลี่ยนแปลง"
     },
     "terms_p_changes": {
       "en": "We may update these terms at any time. Continued use of the App after changes constitutes acceptance of the new terms.",
@@ -1287,7 +1542,10 @@
       "pt-BR": "Podemos atualizar estes termos a qualquer momento. O uso continuado do App após as alterações constitui aceitação dos novos termos.",
       "ru": "Мы можем обновлять эти условия в любое время. Продолжение использования Приложения после изменений означает принятие новых условий.",
       "tr": "Bu koşulları istediğimiz zaman güncelleyebiliriz. Değişikliklerden sonra Uygulamayı kullanmaya devam etmeniz yeni koşulları kabul ettiğiniz anlamına gelir.",
-      "zh-Hans": "我们可能随时更新这些条款。在变更后继续使用本应用即表示接受新条款。"
+      "zh-Hans": "我们可能随时更新这些条款。在变更后继续使用本应用即表示接受新条款。",
+      "vi": "Chúng tôi có thể cập nhật các điều khoản này bất kỳ lúc nào. Việc tiếp tục sử dụng Ứng dụng sau khi thay đổi đồng nghĩa với chấp nhận các điều khoản mới.",
+      "id": "Kami dapat memperbarui syarat ini kapan saja. Penggunaan Aplikasi yang berlanjut setelah perubahan merupakan penerimaan syarat baru.",
+      "th": "เราอาจอัปเดตข้อกำหนดเหล่านี้เมื่อใดก็ได้ การใช้แอปต่อไปหลังจากการเปลี่ยนแปลงถือเป็นการยอมรับข้อกำหนดใหม่"
     },
     "legal_contact": {
       "en": "Questions? Email us at <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
@@ -1302,7 +1560,10 @@
       "pt-BR": "Dúvidas? Envie um e-mail para <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
       "ru": "Есть вопросы? Напишите нам на <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
       "tr": "Sorularınız mı var? Bize e-posta gönderin: <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
-      "zh-Hans": "有问题？请发送邮件至 <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>"
+      "zh-Hans": "有问题？请发送邮件至 <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
+      "vi": "Câu hỏi? Gửi email cho chúng tôi tại <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
+      "id": "Pertanyaan? Email kami di <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>",
+      "th": "มีคำถาม? ส่งอีเมลถึงเราที่ <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>"
     },
     "legal_h_contact": {
       "en": "Contact",
@@ -1317,7 +1578,10 @@
       "pt-BR": "Contato",
       "ru": "Контакты",
       "tr": "İletişim",
-      "zh-Hans": "联系我们"
+      "zh-Hans": "联系我们",
+      "vi": "Liên hệ",
+      "id": "Kontak",
+      "th": "ติดต่อ"
     },
     "privacy_title": {
       "en": "Privacy Policy",
@@ -1332,7 +1596,10 @@
       "pt-BR": "Política de Privacidade",
       "ru": "Политика конфиденциальности",
       "tr": "Gizlilik Politikası",
-      "zh-Hans": "隐私政策"
+      "zh-Hans": "隐私政策",
+      "vi": "Chính sách Bảo mật",
+      "id": "Kebijakan Privasi",
+      "th": "นโยบายความเป็นส่วนตัว"
     },
     "privacy_updated": {
       "en": "Last updated: April 9, 2026",
@@ -1347,7 +1614,10 @@
       "pt-BR": "Última atualização: 9 de abril de 2026",
       "ru": "Последнее обновление: 9 апреля 2026 г.",
       "tr": "Son güncelleme: 9 Nisan 2026",
-      "zh-Hans": "最后更新：2026年4月9日"
+      "zh-Hans": "最后更新：2026年4月9日",
+      "vi": "Cập nhật lần cuối: 9 tháng 4, 2026",
+      "id": "Terakhir diperbarui: 9 April 2026",
+      "th": "อัปเดตล่าสุด: 9 เมษายน 2026"
     },
     "privacy_intro": {
       "en": "ExitCall (\"we\", \"our\", or \"us\") is committed to protecting your privacy. This policy explains what data we collect and how we use it.",
@@ -1362,7 +1632,10 @@
       "pt-BR": "O ExitCall (\"nós\") está comprometido em proteger sua privacidade. Esta política explica quais dados coletamos e como os utilizamos.",
       "ru": "ExitCall («мы», «наш») стремится защитить вашу конфиденциальность. Эта политика объясняет, какие данные мы собираем и как их используем.",
       "tr": "ExitCall (\"biz\") gizliliğinizi korumaya kararlıdır. Bu politika, hangi verileri topladığımızı ve nasıl kullandığımızı açıklar.",
-      "zh-Hans": "ExitCall（“我们”）致力于保护您的隐私。本政策说明我们收集哪些数据以及如何使用这些数据。"
+      "zh-Hans": "ExitCall（“我们”）致力于保护您的隐私。本政策说明我们收集哪些数据以及如何使用这些数据。",
+      "vi": "ExitCall (\"chúng tôi\") cam kết bảo vệ quyền riêng tư của bạn. Chính sách này giải thích dữ liệu chúng tôi thu thập và cách chúng tôi sử dụng.",
+      "id": "ExitCall (\"kami\") berkomitmen melindungi privasimu. Kebijakan ini menjelaskan data apa yang kami kumpulkan dan bagaimana kami menggunakannya.",
+      "th": "ExitCall (\"เรา\") มุ่งมั่นที่จะปกป้องความเป็นส่วนตัวของคุณ นโยบายนี้อธิบายว่าเราเก็บข้อมูลใดบ้างและใช้อย่างไร"
     },
     "privacy_h_data": {
       "en": "Data We Collect",
@@ -1377,7 +1650,10 @@
       "pt-BR": "Dados que coletamos",
       "ru": "Данные, которые мы собираем",
       "tr": "Topladığımız Veriler",
-      "zh-Hans": "我们收集的数据"
+      "zh-Hans": "我们收集的数据",
+      "vi": "Dữ liệu chúng tôi thu thập",
+      "id": "Data yang Kami Kumpulkan",
+      "th": "ข้อมูลที่เราเก็บ"
     },
     "privacy_p_data": {
       "en": "ExitCall does not collect or store any personally identifiable information on our servers. All data (call history, character settings, scheduled calls) is stored locally on your device.",
@@ -1392,7 +1668,10 @@
       "pt-BR": "O ExitCall não coleta nem armazena nenhuma informação pessoal identificável em nossos servidores. Todos os dados (histórico de chamadas, configurações de personagens, chamadas agendadas) são armazenados localmente no seu dispositivo.",
       "ru": "ExitCall не собирает и не хранит персональные данные на наших серверах. Все данные (история звонков, настройки персонажей, запланированные звонки) хранятся локально на вашем устройстве.",
       "tr": "ExitCall, sunucularımızda kişisel olarak tanımlanabilir herhangi bir bilgi toplamaz veya saklamaz. Tüm veriler (arama geçmişi, karakter ayarları, planlanmış aramalar) cihazınızda yerel olarak depolanır.",
-      "zh-Hans": "ExitCall 不会在我们的服务器上收集或存储任何个人身份信息。所有数据（通话记录、角色设置、预约来电）均存储在您的设备本地。"
+      "zh-Hans": "ExitCall 不会在我们的服务器上收集或存储任何个人身份信息。所有数据（通话记录、角色设置、预约来电）均存储在您的设备本地。",
+      "vi": "ExitCall không thu thập hoặc lưu trữ bất kỳ thông tin nhận dạng cá nhân nào trên máy chủ của chúng tôi. Mọi dữ liệu (lịch sử cuộc gọi, cài đặt nhân vật, cuộc gọi đã lên lịch) được lưu cục bộ trên thiết bị của bạn.",
+      "id": "ExitCall tidak mengumpulkan atau menyimpan informasi pribadi apa pun di server kami. Semua data (riwayat panggilan, pengaturan karakter, panggilan terjadwal) disimpan secara lokal di perangkatmu.",
+      "th": "ExitCall ไม่เก็บหรือจัดเก็บข้อมูลส่วนบุคคลใดๆ บนเซิร์ฟเวอร์ของเรา ข้อมูลทั้งหมด (ประวัติการโทร การตั้งค่าตัวละคร สายที่ตั้งเวลา) จัดเก็บไว้ในเครื่องของคุณ"
     },
     "privacy_h_analytics": {
       "en": "Analytics",
@@ -1407,7 +1686,10 @@
       "pt-BR": "Análises",
       "ru": "Аналитика",
       "tr": "Analitik",
-      "zh-Hans": "分析"
+      "zh-Hans": "分析",
+      "vi": "Phân tích",
+      "id": "Analitik",
+      "th": "การวิเคราะห์"
     },
     "privacy_p_analytics": {
       "en": "We use Firebase Analytics to collect anonymous, aggregated usage data (e.g. feature usage, crash reports). This data cannot be used to identify you personally.",
@@ -1422,7 +1704,10 @@
       "pt-BR": "Usamos o Firebase Analytics para coletar dados de uso anônimos e agregados (ex.: uso de recursos, relatórios de falhas). Esses dados não podem ser usados para identificá-lo pessoalmente.",
       "ru": "Мы используем Firebase Analytics для сбора анонимных, агрегированных данных об использовании (например, использование функций, отчёты о сбоях). Эти данные не могут быть использованы для вашей личной идентификации.",
       "tr": "Anonim, toplu kullanım verileri (örneğin özellik kullanımı, çökme raporları) toplamak için Firebase Analytics kullanıyoruz. Bu veriler sizi kişisel olarak tanımlamak için kullanılamaz.",
-      "zh-Hans": "我们使用 Firebase Analytics 收集匿名的汇总使用数据（例如功能使用情况、崩溃报告）。这些数据无法用于识别您的个人身份。"
+      "zh-Hans": "我们使用 Firebase Analytics 收集匿名的汇总使用数据（例如功能使用情况、崩溃报告）。这些数据无法用于识别您的个人身份。",
+      "vi": "Chúng tôi sử dụng Firebase Analytics để thu thập dữ liệu sử dụng tổng hợp ẩn danh (ví dụ: sử dụng tính năng, báo cáo lỗi). Dữ liệu này không thể được sử dụng để nhận dạng bạn.",
+      "id": "Kami menggunakan Firebase Analytics untuk mengumpulkan data penggunaan agregat anonim (mis. penggunaan fitur, laporan kerusakan). Data ini tidak dapat digunakan untuk mengidentifikasi kamu secara pribadi.",
+      "th": "เราใช้ Firebase Analytics เพื่อรวบรวมข้อมูลการใช้งานรวมแบบไม่ระบุตัวตน (เช่น การใช้ฟีเจอร์ รายงานข้อขัดข้อง) ข้อมูลนี้ไม่สามารถใช้ระบุตัวคุณได้"
     },
     "privacy_h_purchases": {
       "en": "Purchases",
@@ -1437,7 +1722,10 @@
       "pt-BR": "Compras",
       "ru": "Покупки",
       "tr": "Satın Almalar",
-      "zh-Hans": "购买"
+      "zh-Hans": "购买",
+      "vi": "Mua hàng",
+      "id": "Pembelian",
+      "th": "การซื้อ"
     },
     "privacy_p_purchases": {
       "en": "In-app purchases are processed by Apple via the App Store. We do not have access to your payment information.",
@@ -1452,7 +1740,10 @@
       "pt-BR": "As compras no aplicativo são processadas pela Apple por meio da App Store. Não temos acesso às suas informações de pagamento.",
       "ru": "Покупки в приложении обрабатываются Apple через App Store. Мы не имеем доступа к вашей платёжной информации.",
       "tr": "Uygulama içi satın almalar Apple tarafından App Store üzerinden işlenir. Ödeme bilgilerinize erişimimiz yoktur.",
-      "zh-Hans": "应用内购买通过 App Store 由 Apple 处理。我们无法访问您的付款信息。"
+      "zh-Hans": "应用内购买通过 App Store 由 Apple 处理。我们无法访问您的付款信息。",
+      "vi": "Các giao dịch mua trong ứng dụng được Apple xử lý qua App Store. Chúng tôi không có quyền truy cập thông tin thanh toán của bạn.",
+      "id": "Pembelian dalam aplikasi diproses oleh Apple melalui App Store. Kami tidak memiliki akses ke informasi pembayaranmu.",
+      "th": "การซื้อในแอปประมวลผลโดย Apple ผ่าน App Store เราไม่มีสิทธิ์เข้าถึงข้อมูลการชำระเงินของคุณ"
     },
     "privacy_h_thirdparty": {
       "en": "Third-Party Services",
@@ -1467,7 +1758,10 @@
       "pt-BR": "Serviços de terceiros",
       "ru": "Сторонние сервисы",
       "tr": "Üçüncü Taraf Hizmetleri",
-      "zh-Hans": "第三方服务"
+      "zh-Hans": "第三方服务",
+      "vi": "Dịch vụ Bên thứ ba",
+      "id": "Layanan Pihak Ketiga",
+      "th": "บริการบุคคลที่สาม"
     },
     "privacy_p_thirdparty": {
       "en": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — analytics and remote configuration",
@@ -1482,7 +1776,10 @@
       "pt-BR": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — análises e configuração remota",
       "ru": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — аналитика и удалённая конфигурация",
       "tr": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — analitik ve uzaktan yapılandırma",
-      "zh-Hans": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — 分析和远程配置"
+      "zh-Hans": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — 分析和远程配置",
+      "vi": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — phân tích và cấu hình từ xa",
+      "id": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — analitik dan konfigurasi jarak jauh",
+      "th": "<a href=\"https://firebase.google.com/support/privacy\" target=\"_blank\" rel=\"noopener\">Firebase (Google)</a> — การวิเคราะห์และการกำหนดค่าระยะไกล"
     },
     "privacy_h_children": {
       "en": "Children's Privacy",
@@ -1497,7 +1794,10 @@
       "pt-BR": "Privacidade de crianças",
       "ru": "Конфиденциальность детей",
       "tr": "Çocukların Gizliliği",
-      "zh-Hans": "儿童隐私"
+      "zh-Hans": "儿童隐私",
+      "vi": "Quyền riêng tư của trẻ em",
+      "id": "Privasi Anak-anak",
+      "th": "ความเป็นส่วนตัวของเด็ก"
     },
     "privacy_p_children": {
       "en": "ExitCall is not directed at children under 13. We do not knowingly collect data from children.",
@@ -1512,7 +1812,10 @@
       "pt-BR": "O ExitCall não é direcionado a crianças menores de 13 anos. Não coletamos dados de crianças conscientemente.",
       "ru": "ExitCall не предназначен для детей младше 13 лет. Мы сознательно не собираем данные детей.",
       "tr": "ExitCall 13 yaşın altındaki çocuklara yönelik değildir. Çocuklardan bilerek veri toplamıyoruz.",
-      "zh-Hans": "ExitCall 不面向 13 岁以下的儿童。我们不会故意收集儿童的数据。"
+      "zh-Hans": "ExitCall 不面向 13 岁以下的儿童。我们不会故意收集儿童的数据。",
+      "vi": "ExitCall không hướng tới trẻ em dưới 13 tuổi. Chúng tôi không cố ý thu thập dữ liệu từ trẻ em.",
+      "id": "ExitCall tidak ditujukan untuk anak-anak di bawah 13 tahun. Kami tidak secara sadar mengumpulkan data dari anak-anak.",
+      "th": "ExitCall ไม่ได้มุ่งเป้าไปที่เด็กอายุต่ำกว่า 13 ปี เราไม่ได้เก็บข้อมูลจากเด็กโดยรู้ตัว"
     },
     "privacy_h_changes": {
       "en": "Changes to This Policy",
@@ -1527,7 +1830,10 @@
       "pt-BR": "Alterações nesta política",
       "ru": "Изменения в этой политике",
       "tr": "Bu Politikadaki Değişiklikler",
-      "zh-Hans": "本政策的变更"
+      "zh-Hans": "本政策的变更",
+      "vi": "Thay đổi Chính sách này",
+      "id": "Perubahan Kebijakan Ini",
+      "th": "การเปลี่ยนแปลงนโยบายนี้"
     },
     "privacy_p_changes": {
       "en": "We may update this policy from time to time. The latest version will always be available at this URL.",
@@ -1542,7 +1848,10 @@
       "pt-BR": "Podemos atualizar esta política periodicamente. A versão mais recente estará sempre disponível nesta URL.",
       "ru": "Мы можем обновлять эту политику время от времени. Последняя версия всегда будет доступна по этому URL-адресу.",
       "tr": "Bu politikayı zaman zaman güncelleyebiliriz. En son sürüm her zaman bu URL'de mevcut olacaktır.",
-      "zh-Hans": "我们可能会不时更新本政策。最新版本将始终在此 URL 提供。"
+      "zh-Hans": "我们可能会不时更新本政策。最新版本将始终在此 URL 提供。",
+      "vi": "Chúng tôi có thể cập nhật chính sách này theo thời gian. Phiên bản mới nhất sẽ luôn có sẵn tại URL này.",
+      "id": "Kami dapat memperbarui kebijakan ini dari waktu ke waktu. Versi terbaru akan selalu tersedia di URL ini.",
+      "th": "เราอาจอัปเดตนโยบายนี้เป็นครั้งคราว เวอร์ชันล่าสุดจะมีให้ที่ URL นี้เสมอ"
     },
     "eula_title": {
       "en": "End User License Agreement",
@@ -1557,7 +1866,10 @@
       "pt-BR": "Contrato de Licença de Usuário Final",
       "ru": "Лицензионное соглашение с конечным пользователем",
       "tr": "Son Kullanıcı Lisans Sözleşmesi",
-      "zh-Hans": "最终用户许可协议"
+      "zh-Hans": "最终用户许可协议",
+      "vi": "Thỏa thuận Cấp phép Người dùng Cuối",
+      "id": "Perjanjian Lisensi Pengguna Akhir",
+      "th": "ข้อตกลงสิทธิ์การใช้งานสำหรับผู้ใช้"
     },
     "eula_updated": {
       "en": "Last updated: April 12, 2026",
@@ -1572,7 +1884,10 @@
       "pt-BR": "Última atualização: 12 de abril de 2026",
       "ru": "Последнее обновление: 12 апреля 2026 г.",
       "tr": "Son güncelleme: 12 Nisan 2026",
-      "zh-Hans": "最后更新：2026年4月12日"
+      "zh-Hans": "最后更新：2026年4月12日",
+      "vi": "Cập nhật lần cuối: 12 tháng 4, 2026",
+      "id": "Terakhir diperbarui: 12 April 2026",
+      "th": "อัปเดตล่าสุด: 12 เมษายน 2026"
     },
     "eula_intro": {
       "en": "This End User License Agreement (\"EULA\") governs your use of the ExitCall application (\"the App\"). By downloading or using the App, you agree to be bound by this agreement.",
@@ -1587,7 +1902,10 @@
       "pt-BR": "Este Contrato de Licença de Usuário Final (\"EULA\") rege o uso do aplicativo ExitCall (\"o App\"). Ao baixar ou usar o App, você concorda em estar vinculado a este contrato.",
       "ru": "Настоящее Лицензионное соглашение с конечным пользователем («ЛСКП») регулирует использование приложения ExitCall («Приложение»). Загружая или используя Приложение, вы соглашаетесь соблюдать данное соглашение.",
       "tr": "Bu Son Kullanıcı Lisans Sözleşmesi (\"EULA\") ExitCall uygulamasının (\"Uygulama\") kullanımınızı düzenler. Uygulamayı indirerek veya kullanarak bu sözleşmeye bağlı olmayı kabul edersiniz.",
-      "zh-Hans": "本最终用户许可协议（“EULA”）规定您对 ExitCall 应用程序（“本应用”）的使用。下载或使用本应用即表示您同意受本协议约束。"
+      "zh-Hans": "本最终用户许可协议（“EULA”）规定您对 ExitCall 应用程序（“本应用”）的使用。下载或使用本应用即表示您同意受本协议约束。",
+      "vi": "Thỏa thuận Cấp phép Người dùng Cuối này (\"EULA\") chi phối việc bạn sử dụng ứng dụng ExitCall (\"Ứng dụng\"). Bằng cách tải xuống hoặc sử dụng Ứng dụng, bạn đồng ý chịu sự ràng buộc bởi thỏa thuận này.",
+      "id": "Perjanjian Lisensi Pengguna Akhir ini (\"EULA\") mengatur penggunaan aplikasi ExitCall (\"Aplikasi\"). Dengan mengunduh atau menggunakan Aplikasi, kamu setuju terikat oleh perjanjian ini.",
+      "th": "ข้อตกลงสิทธิ์การใช้งานสำหรับผู้ใช้นี้ (\"EULA\") ควบคุมการใช้แอปพลิเคชัน ExitCall (\"แอป\") ของคุณ การดาวน์โหลดหรือใช้แอป คุณยอมรับที่จะผูกพันตามข้อตกลงนี้"
     },
     "eula_h_license": {
       "en": "License Grant",
@@ -1602,7 +1920,10 @@
       "pt-BR": "Concessão de licença",
       "ru": "Предоставление лицензии",
       "tr": "Lisans Verilmesi",
-      "zh-Hans": "许可授予"
+      "zh-Hans": "许可授予",
+      "vi": "Cấp phép",
+      "id": "Pemberian Lisensi",
+      "th": "การให้สิทธิ์"
     },
     "eula_p_license": {
       "en": "We grant you a limited, non-exclusive, non-transferable, revocable license to use the App on any Apple device that you own or control, subject to Apple's Usage Rules.",
@@ -1617,7 +1938,10 @@
       "pt-BR": "Concedemos a você uma licença limitada, não exclusiva, intransferível e revogável para usar o App em qualquer dispositivo Apple que você possua ou controle, sujeita às Regras de Uso da Apple.",
       "ru": "Мы предоставляем вам ограниченную, неисключительную, непередаваемую, отзывную лицензию на использование Приложения на любом устройстве Apple, которое вы владеете или контролируете, в соответствии с Правилами использования Apple.",
       "tr": "Size, Apple'ın Kullanım Kurallarına tabi olarak, sahip olduğunuz veya kontrol ettiğiniz herhangi bir Apple cihazında Uygulamayı kullanmak için sınırlı, münhasır olmayan, devredilemez, geri alınabilir bir lisans veriyoruz.",
-      "zh-Hans": "我们授予您有限的、非独占的、不可转让的、可撤销的许可，允许您在您拥有或控制的任何 Apple 设备上使用本应用，但须遵守 Apple 的使用规则。"
+      "zh-Hans": "我们授予您有限的、非独占的、不可转让的、可撤销的许可，允许您在您拥有或控制的任何 Apple 设备上使用本应用，但须遵守 Apple 的使用规则。",
+      "vi": "Chúng tôi cấp cho bạn một giấy phép giới hạn, không độc quyền, không thể chuyển nhượng, có thể thu hồi để sử dụng Ứng dụng trên bất kỳ thiết bị Apple nào mà bạn sở hữu hoặc kiểm soát, tuân theo Quy tắc Sử dụng của Apple.",
+      "id": "Kami memberikanmu lisensi terbatas, non-eksklusif, tidak dapat dialihkan, dapat dicabut untuk menggunakan Aplikasi di perangkat Apple apa pun yang kamu miliki atau kontrol, tunduk pada Aturan Penggunaan Apple.",
+      "th": "เราให้สิทธิ์แบบจำกัด ไม่ผูกขาด ไม่สามารถโอนได้ และเพิกถอนได้แก่คุณในการใช้แอปบนอุปกรณ์ Apple ใดก็ตามที่คุณเป็นเจ้าของหรือควบคุม โดยอยู่ภายใต้กฎการใช้งานของ Apple"
     },
     "eula_h_restrictions": {
       "en": "Restrictions",
@@ -1632,7 +1956,10 @@
       "pt-BR": "Restrições",
       "ru": "Ограничения",
       "tr": "Kısıtlamalar",
-      "zh-Hans": "限制"
+      "zh-Hans": "限制",
+      "vi": "Hạn chế",
+      "id": "Pembatasan",
+      "th": "ข้อจำกัด"
     },
     "eula_p_restrictions": {
       "en": "You may not: (a) copy, modify, or distribute the App; (b) reverse engineer, decompile, or disassemble the App; (c) rent, lease, or lend the App to third parties; (d) use the App for any unlawful purpose.",
@@ -1647,7 +1974,10 @@
       "pt-BR": "Você não pode: (a) copiar, modificar ou distribuir o App; (b) fazer engenharia reversa, descompilar ou desmontar o App; (c) alugar, arrendar ou emprestar o App a terceiros; (d) usar o App para qualquer finalidade ilegal.",
       "ru": "Вам запрещается: (a) копировать, изменять или распространять Приложение; (b) выполнять обратную разработку, декомпиляцию или дизассемблирование Приложения; (c) сдавать в аренду или передавать Приложение третьим лицам; (d) использовать Приложение в незаконных целях.",
       "tr": "Şunları yapamazsınız: (a) Uygulamayı kopyalamak, değiştirmek veya dağıtmak; (b) Uygulamayı tersine mühendislik yapmak, kaynak koduna dönüştürmek veya parçalarına ayırmak; (c) Uygulamayı üçüncü taraflara kiralamak, devretmek veya ödünç vermek; (d) Uygulamayı yasadışı bir amaçla kullanmak.",
-      "zh-Hans": "您不得：(a) 复制、修改或分发本应用；(b) 对本应用进行反向工程、反编译或反汇编；(c) 将本应用出租、租赁或借予第三方；(d) 将本应用用于任何非法目的。"
+      "zh-Hans": "您不得：(a) 复制、修改或分发本应用；(b) 对本应用进行反向工程、反编译或反汇编；(c) 将本应用出租、租赁或借予第三方；(d) 将本应用用于任何非法目的。",
+      "vi": "Bạn không được: (a) sao chép, sửa đổi hoặc phân phối Ứng dụng; (b) dịch ngược, decompile hoặc tháo rời Ứng dụng; (c) cho thuê, cho mượn Ứng dụng cho bên thứ ba; (d) sử dụng Ứng dụng cho mục đích bất hợp pháp.",
+      "id": "Kamu tidak boleh: (a) menyalin, memodifikasi, atau mendistribusikan Aplikasi; (b) merekayasa balik, mendekompilasi, atau membongkar Aplikasi; (c) menyewakan, meminjamkan Aplikasi kepada pihak ketiga; (d) menggunakan Aplikasi untuk tujuan melawan hukum.",
+      "th": "คุณห้าม: (a) คัดลอก ดัดแปลง หรือแจกจ่ายแอป; (b) ทำวิศวกรรมย้อนกลับ ถอดรหัส หรือถอดประกอบแอป; (c) เช่า ให้เช่า หรือยืมแอปแก่บุคคลที่สาม; (d) ใช้แอปเพื่อวัตถุประสงค์ผิดกฎหมาย"
     },
     "eula_h_ownership": {
       "en": "Ownership",
@@ -1662,7 +1992,10 @@
       "pt-BR": "Propriedade",
       "ru": "Право собственности",
       "tr": "Mülkiyet",
-      "zh-Hans": "所有权"
+      "zh-Hans": "所有权",
+      "vi": "Quyền sở hữu",
+      "id": "Kepemilikan",
+      "th": "ความเป็นเจ้าของ"
     },
     "eula_p_ownership": {
       "en": "The App and all intellectual property rights therein are owned by us. This EULA does not grant you any ownership rights.",
@@ -1677,7 +2010,10 @@
       "pt-BR": "O App e todos os direitos de propriedade intelectual nele contidos são de nossa propriedade. Este EULA não concede a você nenhum direito de propriedade.",
       "ru": "Приложение и все права интеллектуальной собственности в нём принадлежат нам. Данное ЛСКП не предоставляет вам никаких прав собственности.",
       "tr": "Uygulama ve içindeki tüm fikri mülkiyet hakları bize aittir. Bu EULA size herhangi bir mülkiyet hakkı vermez.",
-      "zh-Hans": "本应用及其所有知识产权归我们所有。本 EULA 不授予您任何所有权。"
+      "zh-Hans": "本应用及其所有知识产权归我们所有。本 EULA 不授予您任何所有权。",
+      "vi": "Ứng dụng và tất cả các quyền sở hữu trí tuệ trong đó thuộc sở hữu của chúng tôi. EULA này không cấp cho bạn bất kỳ quyền sở hữu nào.",
+      "id": "Aplikasi dan semua hak kekayaan intelektual di dalamnya dimiliki oleh kami. EULA ini tidak memberikan hak kepemilikan apa pun kepadamu.",
+      "th": "แอปและสิทธิ์ในทรัพย์สินทางปัญญาทั้งหมดในนั้นเป็นของเรา EULA นี้ไม่ได้ให้สิทธิ์ความเป็นเจ้าของใดๆ แก่คุณ"
     },
     "eula_h_termination": {
       "en": "Termination",
@@ -1692,7 +2028,10 @@
       "pt-BR": "Rescisão",
       "ru": "Прекращение",
       "tr": "Fesih",
-      "zh-Hans": "终止"
+      "zh-Hans": "终止",
+      "vi": "Chấm dứt",
+      "id": "Pengakhiran",
+      "th": "การยกเลิก"
     },
     "eula_p_termination": {
       "en": "This license is effective until terminated. It will terminate automatically if you fail to comply with any term. Upon termination, you must delete all copies of the App.",
@@ -1707,7 +2046,10 @@
       "pt-BR": "Esta licença é válida até ser rescindida. Será rescindida automaticamente se você não cumprir qualquer termo. Após a rescisão, você deve excluir todas as cópias do App.",
       "ru": "Данная лицензия действует до её прекращения. Она будет автоматически прекращена, если вы нарушите любое условие. При прекращении вы обязаны удалить все копии Приложения.",
       "tr": "Bu lisans feshedilene kadar geçerlidir. Herhangi bir koşula uymamanız durumunda otomatik olarak feshedilir. Fesih üzerine, Uygulamanın tüm kopyalarını silmeniz gerekir.",
-      "zh-Hans": "本许可在终止前有效。如果您未能遵守任何条款，许可将自动终止。终止后，您必须删除本应用的所有副本。"
+      "zh-Hans": "本许可在终止前有效。如果您未能遵守任何条款，许可将自动终止。终止后，您必须删除本应用的所有副本。",
+      "vi": "Giấy phép này có hiệu lực cho đến khi bị chấm dứt. Nó sẽ tự động chấm dứt nếu bạn không tuân thủ bất kỳ điều khoản nào. Khi chấm dứt, bạn phải xóa tất cả các bản sao của Ứng dụng.",
+      "id": "Lisensi ini berlaku sampai diakhiri. Lisensi akan berakhir otomatis jika kamu gagal mematuhi syarat apa pun. Saat berakhir, kamu harus menghapus semua salinan Aplikasi.",
+      "th": "ใบอนุญาตนี้มีผลจนกว่าจะถูกยกเลิก จะยกเลิกอัตโนมัติหากคุณไม่ปฏิบัติตามเงื่อนไขใดๆ เมื่อยกเลิก คุณต้องลบสำเนาทั้งหมดของแอป"
     },
     "eula_h_disclaimer": {
       "en": "Disclaimer of Warranties",
@@ -1722,7 +2064,10 @@
       "pt-BR": "Isenção de garantias",
       "ru": "Отказ от гарантий",
       "tr": "Garanti Reddi",
-      "zh-Hans": "保证免责声明"
+      "zh-Hans": "保证免责声明",
+      "vi": "Tuyên bố từ chối Bảo đảm",
+      "id": "Penafian Jaminan",
+      "th": "ข้อความปฏิเสธการรับประกัน"
     },
     "eula_p_disclaimer": {
       "en": "The App is provided \"as is\" without warranty of any kind, express or implied.",
@@ -1737,7 +2082,10 @@
       "pt-BR": "O App é fornecido \"como está\", sem garantias de qualquer tipo, expressas ou implícitas.",
       "ru": "Приложение предоставляется «как есть» без каких-либо гарантий, явных или подразумеваемых.",
       "tr": "Uygulama, açık veya zımni, hiçbir garanti olmaksızın \"olduğu gibi\" sunulmaktadır.",
-      "zh-Hans": "本应用按“原样”提供，不附带任何明示或暗示的保证。"
+      "zh-Hans": "本应用按“原样”提供，不附带任何明示或暗示的保证。",
+      "vi": "Ứng dụng được cung cấp \"như hiện trạng\" mà không có bảo đảm nào, dù rõ ràng hay ngụ ý.",
+      "id": "Aplikasi disediakan \"apa adanya\" tanpa jaminan dalam bentuk apa pun, baik tersurat maupun tersirat.",
+      "th": "แอปให้บริการ \"ตามสภาพ\" โดยไม่มีการรับประกันใดๆ ทั้งโดยชัดแจ้งหรือโดยนัย"
     },
     "eula_h_liability": {
       "en": "Limitation of Liability",
@@ -1752,7 +2100,10 @@
       "pt-BR": "Limitação de responsabilidade",
       "ru": "Ограничение ответственности",
       "tr": "Sorumluluk Sınırlaması",
-      "zh-Hans": "责任限制"
+      "zh-Hans": "责任限制",
+      "vi": "Giới hạn Trách nhiệm",
+      "id": "Batasan Tanggung Jawab",
+      "th": "ข้อจำกัดความรับผิด"
     },
     "eula_p_liability": {
       "en": "In no event shall we be liable for any damages arising from the use or inability to use the App.",
@@ -1767,7 +2118,10 @@
       "pt-BR": "Em nenhuma hipótese seremos responsáveis por quaisquer danos decorrentes do uso ou da impossibilidade de uso do App.",
       "ru": "Ни при каких обстоятельствах мы не несём ответственности за ущерб, возникший в результате использования или невозможности использования Приложения.",
       "tr": "Hiçbir durumda Uygulamanın kullanımından veya kullanılamamasından kaynaklanan zararlardan sorumlu olmayacağız.",
-      "zh-Hans": "在任何情况下，我们均不对因使用或无法使用本应用而产生的任何损害承担责任。"
+      "zh-Hans": "在任何情况下，我们均不对因使用或无法使用本应用而产生的任何损害承担责任。",
+      "vi": "Trong mọi trường hợp, chúng tôi sẽ không chịu trách nhiệm về bất kỳ thiệt hại nào phát sinh từ việc sử dụng hoặc không thể sử dụng Ứng dụng.",
+      "id": "Dalam keadaan apa pun, kami tidak akan bertanggung jawab atas kerusakan apa pun yang timbul dari penggunaan atau ketidakmampuan menggunakan Aplikasi.",
+      "th": "ไม่ว่ากรณีใด เราจะไม่รับผิดต่อความเสียหายใดๆ ที่เกิดจากการใช้หรือไม่สามารถใช้แอป"
     },
     "eula_h_apple": {
       "en": "Apple Terms",
@@ -1782,7 +2136,10 @@
       "pt-BR": "Termos da Apple",
       "ru": "Условия Apple",
       "tr": "Apple Koşulları",
-      "zh-Hans": "Apple 条款"
+      "zh-Hans": "Apple 条款",
+      "vi": "Điều khoản Apple",
+      "id": "Syarat Apple",
+      "th": "ข้อกำหนดของ Apple"
     },
     "eula_p_apple": {
       "en": "This EULA is between you and us, not Apple. Apple has no obligation to furnish maintenance or support for the App. In the event of any failure to conform to applicable warranties, you may notify Apple for a refund of the purchase price (if any). Apple has no other warranty obligation.",
@@ -1797,7 +2154,10 @@
       "pt-BR": "Este EULA é entre você e nós, não a Apple. A Apple não tem obrigação de fornecer manutenção ou suporte para o App. Em caso de falha em conformidade com garantias aplicáveis, você pode notificar a Apple para reembolso do preço de compra (se houver). A Apple não tem outra obrigação de garantia.",
       "ru": "Данное ЛСКП заключается между вами и нами, а не Apple. Apple не обязана предоставлять обслуживание или поддержку Приложения. В случае несоответствия применимым гарантиям вы можете уведомить Apple для возврата покупной цены (если таковая имеется). У Apple нет иных гарантийных обязательств.",
       "tr": "Bu EULA sizinle aramızda olup Apple ile değildir. Apple'ın Uygulama için bakım veya destek sağlama yükümlülüğü yoktur. Geçerli garantilere uyulmaması durumunda, satın alma fiyatının (varsa) iadesi için Apple'a bildirimde bulunabilirsiniz. Apple'ın başka bir garanti yükümlülüğü yoktur.",
-      "zh-Hans": "本 EULA 是您与我们之间的协议，而非与 Apple 之间的协议。Apple 没有义务为本应用提供维护或支持。如果不符合适用保证，您可以通知 Apple 以获得购买价格的退款（如有）。Apple 没有其他保证义务。"
+      "zh-Hans": "本 EULA 是您与我们之间的协议，而非与 Apple 之间的协议。Apple 没有义务为本应用提供维护或支持。如果不符合适用保证，您可以通知 Apple 以获得购买价格的退款（如有）。Apple 没有其他保证义务。",
+      "vi": "EULA này là giữa bạn và chúng tôi, không phải Apple. Apple không có nghĩa vụ cung cấp bảo trì hoặc hỗ trợ cho Ứng dụng. Trong trường hợp không phù hợp với bảo đảm hiện hành, bạn có thể thông báo cho Apple để được hoàn lại tiền mua (nếu có). Apple không có nghĩa vụ bảo đảm nào khác.",
+      "id": "EULA ini antara kamu dan kami, bukan Apple. Apple tidak memiliki kewajiban untuk menyediakan pemeliharaan atau dukungan untuk Aplikasi. Dalam hal kegagalan untuk memenuhi jaminan yang berlaku, kamu dapat memberi tahu Apple untuk pengembalian uang pembelian (jika ada). Apple tidak memiliki kewajiban garansi lain.",
+      "th": "EULA นี้เป็นระหว่างคุณกับเรา ไม่ใช่ Apple Apple ไม่มีภาระผูกพันในการให้บริการบำรุงรักษาหรือสนับสนุนแอป ในกรณีที่ไม่เป็นไปตามการรับประกันที่บังคับใช้ คุณอาจแจ้ง Apple เพื่อขอคืนเงินค่าซื้อ (ถ้ามี) Apple ไม่มีภาระผูกพันการรับประกันอื่นใด"
     },
     "footer_responsible": {
       "en": "Responsible Use",
@@ -1812,7 +2172,10 @@
       "pt-BR": "Uso responsável",
       "ru": "Ответственное использование",
       "tr": "Sorumlu Kullanım",
-      "zh-Hans": "负责任使用"
+      "zh-Hans": "负责任使用",
+      "vi": "Sử dụng có trách nhiệm",
+      "id": "Penggunaan Bertanggung Jawab",
+      "th": "การใช้อย่างมีความรับผิดชอบ"
     },
     "responsible_title": {
       "en": "Responsible Use",
@@ -1827,7 +2190,10 @@
       "pt-BR": "Uso responsável",
       "ru": "Ответственное использование",
       "tr": "Sorumlu Kullanım",
-      "zh-Hans": "负责任使用"
+      "zh-Hans": "负责任使用",
+      "vi": "Sử dụng có trách nhiệm",
+      "id": "Penggunaan Bertanggung Jawab",
+      "th": "การใช้อย่างมีความรับผิดชอบ"
     },
     "responsible_updated": {
       "en": "Last updated: May 10, 2026",
@@ -1842,7 +2208,10 @@
       "pt-BR": "Última atualização: 10 de maio de 2026",
       "ru": "Последнее обновление: 10 мая 2026 г.",
       "tr": "Son güncelleme: 10 Mayıs 2026",
-      "zh-Hans": "最后更新：2026 年 5 月 10 日"
+      "zh-Hans": "最后更新：2026 年 5 月 10 日",
+      "vi": "Cập nhật lần cuối: 10 tháng 5, 2026",
+      "id": "Terakhir diperbarui: 10 Mei 2026",
+      "th": "อัปเดตล่าสุด: 10 พฤษภาคม 2026"
     },
     "responsible_intro": {
       "en": "ExitCall is a personal safety tool. It helps you leave situations that feel unsafe, awkward, or unwelcome. This page explains how to use it responsibly — and what we ask you not to do with it.",
@@ -1857,7 +2226,10 @@
       "pt-BR": "O ExitCall é uma ferramenta de segurança pessoal. Ele ajuda você a sair de situações que parecem inseguras, constrangedoras ou indesejadas. Esta página explica como usá-lo com responsabilidade — e o que pedimos que você não faça com ele.",
       "ru": "ExitCall — инструмент личной безопасности. Он помогает вам покидать ситуации, которые кажутся небезопасными, неловкими или нежелательными. На этой странице объясняется, как использовать его ответственно — и что мы просим вас не делать с ним.",
       "tr": "ExitCall kişisel bir güvenlik aracıdır. Güvensiz, rahatsız edici veya istenmeyen hissettiren durumlardan çıkmanıza yardımcı olur. Bu sayfa, onu sorumlu şekilde nasıl kullanacağınızı — ve sizden onunla yapmamanızı istediğimiz şeyleri — açıklar.",
-      "zh-Hans": "ExitCall 是一款个人安全工具。它可以帮助您离开感到不安全、尴尬或不受欢迎的情境。本页面说明如何负责任地使用它——以及我们请您不要用它做什么。"
+      "zh-Hans": "ExitCall 是一款个人安全工具。它可以帮助您离开感到不安全、尴尬或不受欢迎的情境。本页面说明如何负责任地使用它——以及我们请您不要用它做什么。",
+      "vi": "ExitCall là công cụ an toàn cá nhân. Nó giúp bạn rời khỏi những tình huống không an toàn, khó xử hoặc không được hoan nghênh. Trang này giải thích cách sử dụng có trách nhiệm — và những gì chúng tôi yêu cầu bạn không làm với nó.",
+      "id": "ExitCall adalah alat keamanan pribadi. Ini membantumu meninggalkan situasi yang terasa tidak aman, canggung, atau tidak diinginkan. Halaman ini menjelaskan cara menggunakannya secara bertanggung jawab — dan apa yang kami minta untuk tidak kamu lakukan.",
+      "th": "ExitCall เป็นเครื่องมือเพื่อความปลอดภัยส่วนบุคคล มันช่วยให้คุณออกจากสถานการณ์ที่รู้สึกไม่ปลอดภัย อึดอัด หรือไม่ได้รับการต้อนรับ หน้านี้อธิบายวิธีใช้อย่างมีความรับผิดชอบ — และสิ่งที่เราขอให้คุณอย่าทำ"
     },
     "responsible_h_intended": {
       "en": "What ExitCall is for",
@@ -1872,7 +2244,10 @@
       "pt-BR": "Para que serve o ExitCall",
       "ru": "Для чего предназначен ExitCall",
       "tr": "ExitCall ne için var",
-      "zh-Hans": "ExitCall 的用途"
+      "zh-Hans": "ExitCall 的用途",
+      "vi": "ExitCall dùng để làm gì",
+      "id": "Untuk apa ExitCall",
+      "th": "ExitCall มีไว้สำหรับอะไร"
     },
     "responsible_p_intended": {
       "en": "Leaving a date that turned uncomfortable. Stepping out of a meeting, gathering, or networking event when you want to. Feeling safer on a solo trip or late-night ride. Rehearsing a difficult conversation before it happens. ExitCall is designed for these moments — moments where having a believable reason to step away protects your time, your comfort, or your safety.",
@@ -1887,7 +2262,10 @@
       "pt-BR": "Sair de um encontro que ficou desconfortável. Deixar uma reunião, encontro ou evento de networking quando quiser. Sentir-se mais segura em uma viagem solo ou em um deslocamento noturno. Ensaiar uma conversa difícil antes que aconteça. O ExitCall foi projetado para esses momentos — momentos em que ter um motivo crível para se afastar protege seu tempo, seu conforto ou sua segurança.",
       "ru": "Уйти со свидания, ставшего неприятным. Покинуть встречу, мероприятие или нетворкинг-событие, когда вам этого хочется. Чувствовать себя безопаснее в одиночной поездке или ночном пути. Отрепетировать сложный разговор до того, как он состоится. ExitCall создан для таких моментов — моментов, когда правдоподобная причина уйти защищает ваше время, комфорт или безопасность.",
       "tr": "Rahatsız edici hale gelen bir randevudan ayrılmak. İstediğinizde bir toplantı, buluşma veya networking etkinliğinden çıkmak. Solo bir yolculukta veya gece yarısı bir yol üstünde kendinizi daha güvende hissetmek. Zor bir konuşmayı yaşanmadan önce prova etmek. ExitCall bu anlar için tasarlandı — uzaklaşmak için inandırıcı bir nedeninizin olması zamanınızı, rahatınızı veya güvenliğinizi koruduğu anlar için.",
-      "zh-Hans": "离开一场变得不舒服的约会。在你想要的时候退出会议、聚会或社交活动。在独自旅行或深夜出行时感到更安全。在重要对话发生前进行预演。ExitCall 是为这些时刻而设计的——在这些时刻，一个可信的离场理由能保护你的时间、舒适感或安全。"
+      "zh-Hans": "离开一场变得不舒服的约会。在你想要的时候退出会议、聚会或社交活动。在独自旅行或深夜出行时感到更安全。在重要对话发生前进行预演。ExitCall 是为这些时刻而设计的——在这些时刻，一个可信的离场理由能保护你的时间、舒适感或安全。",
+      "vi": "Rời khỏi buổi hẹn trở nên khó xử. Bước ra khỏi cuộc họp, buổi tụ tập, hay sự kiện networking khi bạn muốn. Cảm thấy an toàn hơn trong chuyến đi một mình hay xe khuya. Tập dượt cuộc trò chuyện khó trước khi nó xảy ra. ExitCall được thiết kế cho những khoảnh khắc này — những khoảnh khắc khi có một lý do đáng tin để bước ra bảo vệ thời gian, sự thoải mái hoặc an toàn của bạn.",
+      "id": "Meninggalkan kencan yang menjadi tidak nyaman. Keluar dari rapat, pertemuan, atau acara networking saat kamu mau. Merasa lebih aman dalam perjalanan sendiri atau larut malam. Berlatih percakapan sulit sebelum terjadi. ExitCall dirancang untuk momen-momen ini — momen ketika memiliki alasan meyakinkan untuk keluar melindungi waktu, kenyamanan, atau keamananmu.",
+      "th": "ออกจากเดทที่กลายเป็นอึดอัด ก้าวออกจากการประชุม การรวมตัว หรือกิจกรรมเครือข่ายเมื่อคุณต้องการ รู้สึกปลอดภัยขึ้นในการเดินทางคนเดียวหรือดึก ฝึกซ้อมการสนทนาที่ยากก่อนจะเกิดขึ้น ExitCall ออกแบบมาเพื่อช่วงเวลาเหล่านี้ — ช่วงเวลาที่การมีเหตุผลที่น่าเชื่อถือเพื่อก้าวออกไปจะปกป้องเวลา ความสบาย หรือความปลอดภัยของคุณ"
     },
     "responsible_h_prohibited": {
       "en": "What ExitCall is not for",
@@ -1902,7 +2280,10 @@
       "pt-BR": "Para o que o ExitCall não serve",
       "ru": "Для чего ExitCall не предназначен",
       "tr": "ExitCall ne için değil",
-      "zh-Hans": "ExitCall 不适用于的用途"
+      "zh-Hans": "ExitCall 不适用于的用途",
+      "vi": "ExitCall không dùng để làm gì",
+      "id": "Bukan untuk apa ExitCall",
+      "th": "ExitCall ไม่ได้มีไว้สำหรับอะไร"
     },
     "responsible_p_prohibited": {
       "en": "Don't use ExitCall in ways that harm others. In particular:",
@@ -1917,7 +2298,10 @@
       "pt-BR": "Não use o ExitCall de formas que prejudiquem outras pessoas. Em particular:",
       "ru": "Не используйте ExitCall способами, причиняющими вред другим. В частности:",
       "tr": "ExitCall'ı başkalarına zarar verecek şekillerde kullanmayın. Özellikle:",
-      "zh-Hans": "不要以伤害他人的方式使用 ExitCall。具体而言："
+      "zh-Hans": "不要以伤害他人的方式使用 ExitCall。具体而言：",
+      "vi": "Đừng sử dụng ExitCall theo cách gây hại cho người khác. Cụ thể:",
+      "id": "Jangan gunakan ExitCall dengan cara yang merugikan orang lain. Khususnya:",
+      "th": "อย่าใช้ ExitCall ในแบบที่ทำร้ายผู้อื่น โดยเฉพาะ:"
     },
     "responsible_li_impersonate": {
       "en": "Impersonating a specific real person — including a real doctor, lawyer, employer, family member, or partner — to mislead someone who relies on the truth of the call.",
@@ -1932,7 +2316,10 @@
       "pt-BR": "Fazer-se passar por uma pessoa real específica — incluindo um médico, advogado, empregador, familiar ou parceiro real — para enganar alguém que confia na veracidade da chamada.",
       "ru": "Выдавать себя за конкретного реального человека — включая настоящего врача, юриста, работодателя, члена семьи или партнёра — чтобы ввести в заблуждение того, кто полагается на правдивость звонка.",
       "tr": "Belirli gerçek bir kişiyi — gerçek bir doktor, avukat, işveren, aile üyesi veya partner dahil — taklit ederek aramanın doğruluğuna güvenen birini yanıltmak.",
-      "zh-Hans": "冒充某个特定的真实人物——包括真实的医生、律师、雇主、家庭成员或伴侣——以欺骗依赖通话真实性的人。"
+      "zh-Hans": "冒充某个特定的真实人物——包括真实的医生、律师、雇主、家庭成员或伴侣——以欺骗依赖通话真实性的人。",
+      "vi": "Giả mạo một người thật cụ thể — bao gồm bác sĩ, luật sư, sếp, người thân hoặc người yêu — để đánh lừa người tin vào tính chân thật của cuộc gọi.",
+      "id": "Menyamar sebagai orang nyata tertentu — termasuk dokter, pengacara, atasan, anggota keluarga, atau pasangan nyata — untuk menyesatkan seseorang yang bergantung pada kebenaran panggilan.",
+      "th": "การปลอมตัวเป็นบุคคลจริงโดยเฉพาะ — รวมถึงแพทย์ ทนายความ นายจ้าง สมาชิกในครอบครัว หรือคู่รักจริง — เพื่อทำให้คนที่ไว้วางใจในความจริงของสายเข้าใจผิด"
     },
     "responsible_li_evade": {
       "en": "Evading legal, medical, financial, or professional obligations — for example, faking a call to skip a court appointment, mislead a treating clinician, or break a binding commitment.",
@@ -1947,7 +2334,10 @@
       "pt-BR": "Evadir obrigações legais, médicas, financeiras ou profissionais — por exemplo, simular uma chamada para faltar a uma audiência judicial, enganar um clínico responsável pelo tratamento ou romper um compromisso vinculante.",
       "ru": "Уклоняться от юридических, медицинских, финансовых или профессиональных обязательств — например, имитировать звонок, чтобы пропустить судебное заседание, ввести в заблуждение лечащего врача или нарушить обязывающее обязательство.",
       "tr": "Yasal, tıbbi, finansal veya mesleki yükümlülüklerden kaçınmak — örneğin, mahkeme randevusunu kaçırmak, tedavi eden bir hekimi yanıltmak veya bağlayıcı bir taahhüdü bozmak için arama uydurmak.",
-      "zh-Hans": "逃避法律、医疗、财务或职业义务——例如，伪造通话以跳过法庭传唤、误导主治医生或违反具有约束力的承诺。"
+      "zh-Hans": "逃避法律、医疗、财务或职业义务——例如，伪造通话以跳过法庭传唤、误导主治医生或违反具有约束力的承诺。",
+      "vi": "Trốn tránh nghĩa vụ pháp lý, y tế, tài chính hoặc nghề nghiệp — ví dụ, giả vờ có cuộc gọi để bỏ phiên tòa, đánh lừa bác sĩ điều trị, hoặc phá vỡ cam kết ràng buộc.",
+      "id": "Menghindari kewajiban hukum, medis, finansial, atau profesional — misalnya, memalsukan panggilan untuk melewatkan janji pengadilan, menyesatkan dokter yang merawat, atau melanggar komitmen yang mengikat.",
+      "th": "การหลีกเลี่ยงภาระทางกฎหมาย การแพทย์ การเงิน หรือวิชาชีพ — ตัวอย่างเช่น ปลอมสายเพื่อข้ามนัดศาล ทำให้แพทย์ผู้รักษาเข้าใจผิด หรือผิดสัญญาผูกพัน"
     },
     "responsible_li_harass": {
       "en": "Harassing, intimidating, gaslighting, or coercing another person — including using a fake call to manipulate a partner, family member, colleague, or anyone else.",
@@ -1962,7 +2352,10 @@
       "pt-BR": "Assediar, intimidar, fazer gaslighting ou coagir outra pessoa — incluindo usar uma chamada falsa para manipular um parceiro, familiar, colega ou qualquer outra pessoa.",
       "ru": "Преследовать, запугивать, газлайтить или принуждать другого человека — в том числе использовать ложный звонок для манипулирования партнёром, членом семьи, коллегой или кем-либо ещё.",
       "tr": "Bir başka kişiyi taciz etmek, korkutmak, gaslighting yapmak veya zorlamak — bir partneri, aile üyesini, meslektaşı veya başka birini manipüle etmek için sahte arama kullanmak dahil.",
-      "zh-Hans": "骚扰、恐吓、煤气灯操控或胁迫他人——包括使用伪造来电来操控伴侣、家人、同事或任何其他人。"
+      "zh-Hans": "骚扰、恐吓、煤气灯操控或胁迫他人——包括使用伪造来电来操控伴侣、家人、同事或任何其他人。",
+      "vi": "Quấy rối, đe dọa, gaslighting, hoặc ép buộc người khác — bao gồm sử dụng cuộc gọi giả để thao túng bạn đời, người thân, đồng nghiệp hoặc bất kỳ ai.",
+      "id": "Melecehkan, mengintimidasi, melakukan gaslighting, atau memaksa orang lain — termasuk menggunakan panggilan palsu untuk memanipulasi pasangan, anggota keluarga, rekan kerja, atau siapa pun.",
+      "th": "การคุกคาม ข่มขู่ กาสไลต์ติ้ง หรือบังคับผู้อื่น — รวมถึงการใช้สายปลอมเพื่อบงการคู่รัก สมาชิกในครอบครัว เพื่อนร่วมงาน หรือคนอื่นใด"
     },
     "responsible_li_minors": {
       "en": "Using ExitCall against minors or other vulnerable people, or to deceive someone in a position where they cannot reasonably protect themselves.",
@@ -1977,7 +2370,10 @@
       "pt-BR": "Usar o ExitCall contra menores ou outras pessoas vulneráveis, ou para enganar alguém em uma posição em que não possa razoavelmente se proteger.",
       "ru": "Использовать ExitCall против несовершеннолетних или иных уязвимых лиц, либо для обмана того, кто не может разумно защитить себя.",
       "tr": "ExitCall'ı reşit olmayanlara veya diğer savunmasız kişilere karşı ya da kendisini makul şekilde koruyamayacak konumdaki birini aldatmak için kullanmak.",
-      "zh-Hans": "对未成年人或其他易受侵害的人使用 ExitCall，或欺骗处于无法合理自我保护处境中的人。"
+      "zh-Hans": "对未成年人或其他易受侵害的人使用 ExitCall，或欺骗处于无法合理自我保护处境中的人。",
+      "vi": "Sử dụng ExitCall đối với trẻ vị thành niên hoặc những người dễ bị tổn thương khác, hoặc để đánh lừa người không thể bảo vệ chính mình.",
+      "id": "Menggunakan ExitCall terhadap anak di bawah umur atau orang rentan lainnya, atau untuk menipu seseorang dalam posisi di mana mereka tidak dapat secara wajar melindungi diri.",
+      "th": "ใช้ ExitCall กับผู้เยาว์หรือผู้อ่อนแอ หรือเพื่อหลอกลวงคนที่อยู่ในตำแหน่งที่ไม่สามารถปกป้องตัวเองได้อย่างสมเหตุสมผล"
     },
     "responsible_li_fraud": {
       "en": "Fraud, scams, defamation, threats, or any other unlawful purpose.",
@@ -1992,7 +2388,10 @@
       "pt-BR": "Fraude, golpes, difamação, ameaças ou qualquer outro propósito ilícito.",
       "ru": "Мошенничество, аферы, клевета, угрозы или любая иная незаконная цель.",
       "tr": "Dolandırıcılık, sahtekarlık, iftira, tehdit veya başka herhangi bir yasadışı amaç.",
-      "zh-Hans": "欺诈、骗局、诽谤、威胁或任何其他非法目的。"
+      "zh-Hans": "欺诈、骗局、诽谤、威胁或任何其他非法目的。",
+      "vi": "Lừa đảo, mưu mẹo, phỉ báng, đe dọa, hoặc bất kỳ mục đích bất hợp pháp nào khác.",
+      "id": "Penipuan, scam, fitnah, ancaman, atau tujuan melawan hukum lainnya.",
+      "th": "การฉ้อโกง สแกม การหมิ่นประมาท การข่มขู่ หรือวัตถุประสงค์ผิดกฎหมายอื่นใด"
     },
     "responsible_h_personas": {
       "en": "AI personas",
@@ -2007,7 +2406,10 @@
       "pt-BR": "Personas de IA",
       "ru": "AI-персонажи",
       "tr": "AI personaları",
-      "zh-Hans": "AI 角色"
+      "zh-Hans": "AI 角色",
+      "vi": "Nhân vật AI",
+      "id": "Persona AI",
+      "th": "ตัวละคร AI"
     },
     "responsible_p_personas": {
       "en": "ExitCall lets you set the caller's name, voice, and role, and to link a persona to a contact on your device. The persona's name and any contact link are private references for you. They are not an authorisation to claim that a specific real person — including the linked contact — actually called or said anything. The voices are AI-generated and should not be presented as a real human's voice.",
@@ -2022,7 +2424,10 @@
       "pt-BR": "O ExitCall permite definir o nome, a voz e o papel do chamador, e vincular uma persona a um contato no seu dispositivo. O nome da persona e qualquer vínculo de contato são referências privadas para você. Não são uma autorização para afirmar que uma pessoa real específica — incluindo o contato vinculado — realmente ligou ou disse algo. As vozes são geradas por IA e não devem ser apresentadas como a voz de uma pessoa real.",
       "ru": "ExitCall позволяет задавать имя, голос и роль звонящего, а также связывать персонажа с контактом на вашем устройстве. Имя персонажа и любая привязка к контакту — это ваши личные пометки. Они не являются разрешением утверждать, что конкретный реальный человек — включая связанный контакт — действительно звонил или что-то говорил. Голоса сгенерированы ИИ и не должны выдаваться за голос реального человека.",
       "tr": "ExitCall, arayanın adını, sesini ve rolünü belirlemenize ve bir personayı cihazınızdaki bir kişiye bağlamanıza imkan tanır. Personanın adı ve herhangi bir kişi bağlantısı yalnızca sizin için özel referanslardır. Bunlar, belirli bir gerçek kişinin — bağlı kişi dahil — gerçekten aradığını veya bir şey söylediğini iddia etme yetkisi değildir. Sesler AI tarafından üretilmiştir ve gerçek bir insanın sesi olarak sunulmamalıdır.",
-      "zh-Hans": "ExitCall 允许您设置来电者的姓名、声音和角色，并将角色关联到设备上的联系人。角色名称和任何联系人关联仅是供您自己参考。它们并不授权您声称某个特定的真实人物——包括关联联系人——确实拨打了电话或说过任何话。声音由 AI 生成，不应作为真实人类的声音呈现。"
+      "zh-Hans": "ExitCall 允许您设置来电者的姓名、声音和角色，并将角色关联到设备上的联系人。角色名称和任何联系人关联仅是供您自己参考。它们并不授权您声称某个特定的真实人物——包括关联联系人——确实拨打了电话或说过任何话。声音由 AI 生成，不应作为真实人类的声音呈现。",
+      "vi": "ExitCall cho phép bạn đặt tên, giọng và vai trò của người gọi, và liên kết một nhân vật với một liên hệ trên thiết bị của bạn. Tên nhân vật và bất kỳ liên kết liên hệ nào đều là tham chiếu riêng cho bạn. Chúng không phải là sự ủy quyền để tuyên bố rằng một người thật cụ thể — bao gồm cả liên hệ đã liên kết — thực sự đã gọi hoặc nói bất cứ điều gì. Giọng nói được tạo bởi AI và không nên được trình bày như giọng người thật.",
+      "id": "ExitCall memungkinkanmu mengatur nama, suara, dan peran pemanggil, serta menautkan persona ke kontak di perangkatmu. Nama persona dan tautan kontak adalah referensi pribadi untukmu. Itu bukan otorisasi untuk mengklaim bahwa orang nyata tertentu — termasuk kontak yang ditautkan — benar-benar menelepon atau mengatakan sesuatu. Suara dihasilkan AI dan tidak boleh disajikan sebagai suara manusia nyata.",
+      "th": "ExitCall ให้คุณตั้งชื่อ เสียง และบทบาทของผู้โทร และเชื่อมโยงตัวละครกับรายชื่อในเครื่องของคุณ ชื่อตัวละครและการเชื่อมโยงรายชื่อใดๆ เป็นการอ้างอิงส่วนตัวสำหรับคุณ มันไม่ใช่การอนุญาตให้อ้างว่าบุคคลจริงโดยเฉพาะ — รวมถึงรายชื่อที่เชื่อมโยง — โทรหรือพูดอะไรจริงๆ เสียงสร้างโดย AI และไม่ควรนำเสนอว่าเป็นเสียงของมนุษย์จริง"
     },
     "responsible_h_enforcement": {
       "en": "Enforcement",
@@ -2037,7 +2442,10 @@
       "pt-BR": "Aplicação",
       "ru": "Применение",
       "tr": "Uygulama",
-      "zh-Hans": "执行"
+      "zh-Hans": "执行",
+      "vi": "Thực thi",
+      "id": "Penegakan",
+      "th": "การบังคับใช้"
     },
     "responsible_p_enforcement": {
       "en": "Use of ExitCall in violation of this policy or our Terms of Service may result in suspension or termination of your access to paid features. We may also report unlawful conduct to the appropriate authorities. ExitCall does not store call audio or conversation content on our servers, but you remain solely responsible for how you use the app.",
@@ -2052,7 +2460,10 @@
       "pt-BR": "O uso do ExitCall em violação a esta política ou aos nossos Termos de serviço pode resultar na suspensão ou rescisão do seu acesso a recursos pagos. Também podemos relatar conduta ilícita às autoridades competentes. O ExitCall não armazena áudio de chamadas ou conteúdo de conversas em nossos servidores, mas você continua sendo o único responsável pela forma como usa o app.",
       "ru": "Использование ExitCall в нарушение этой политики или наших Условий использования может привести к приостановке или прекращению доступа к платным функциям. Мы также можем сообщать о противоправном поведении в соответствующие органы. ExitCall не сохраняет аудио звонков или содержание разговоров на наших серверах, но вы единолично отвечаете за то, как используете приложение.",
       "tr": "ExitCall'ın bu politikayı veya Kullanım Şartlarımızı ihlal ederek kullanılması, ücretli özelliklere erişiminizin askıya alınmasına veya sonlandırılmasına neden olabilir. Yasa dışı davranışları yetkili makamlara da bildirebiliriz. ExitCall arama sesini veya konuşma içeriğini sunucularımızda saklamaz, ancak uygulamayı nasıl kullandığınızdan tek başınıza sorumlu olmaya devam edersiniz.",
-      "zh-Hans": "违反本政策或我们的服务条款使用 ExitCall 可能会导致您对付费功能的访问被暂停或终止。我们也可能向相关主管部门报告违法行为。ExitCall 不在我们的服务器上存储通话音频或对话内容，但您仍对自己使用本应用的方式承担全部责任。"
+      "zh-Hans": "违反本政策或我们的服务条款使用 ExitCall 可能会导致您对付费功能的访问被暂停或终止。我们也可能向相关主管部门报告违法行为。ExitCall 不在我们的服务器上存储通话音频或对话内容，但您仍对自己使用本应用的方式承担全部责任。",
+      "vi": "Việc sử dụng ExitCall vi phạm chính sách này hoặc Điều khoản Dịch vụ của chúng tôi có thể dẫn đến đình chỉ hoặc chấm dứt quyền truy cập của bạn vào các tính năng trả phí. Chúng tôi cũng có thể báo cáo hành vi bất hợp pháp đến các cơ quan có thẩm quyền. ExitCall không lưu trữ âm thanh cuộc gọi hoặc nội dung trò chuyện trên máy chủ của chúng tôi, nhưng bạn vẫn hoàn toàn chịu trách nhiệm về cách sử dụng ứng dụng.",
+      "id": "Penggunaan ExitCall yang melanggar kebijakan ini atau Syarat Layanan kami dapat mengakibatkan penangguhan atau penghentian aksesmu ke fitur berbayar. Kami juga dapat melaporkan perilaku melawan hukum ke otoritas yang berwenang. ExitCall tidak menyimpan audio panggilan atau konten percakapan di server kami, tetapi kamu tetap bertanggung jawab penuh atas cara penggunaan aplikasi.",
+      "th": "การใช้ ExitCall ที่ละเมิดนโยบายนี้หรือข้อกำหนดการให้บริการของเรา อาจส่งผลให้ระงับหรือยุติการเข้าถึงฟีเจอร์แบบชำระเงินของคุณ เราอาจรายงานการประพฤติผิดกฎหมายไปยังหน่วยงานที่เกี่ยวข้อง ExitCall ไม่จัดเก็บเสียงสายโทรหรือเนื้อหาการสนทนาบนเซิร์ฟเวอร์ของเรา แต่คุณยังคงรับผิดชอบทั้งหมดต่อวิธีที่คุณใช้แอป"
     },
     "responsible_h_report": {
       "en": "Report misuse",
@@ -2067,7 +2478,10 @@
       "pt-BR": "Denunciar uso indevido",
       "ru": "Сообщить о злоупотреблении",
       "tr": "Kötüye kullanımı bildir",
-      "zh-Hans": "举报滥用"
+      "zh-Hans": "举报滥用",
+      "vi": "Báo cáo lạm dụng",
+      "id": "Laporkan penyalahgunaan",
+      "th": "รายงานการใช้ในทางที่ผิด"
     },
     "responsible_p_report": {
       "en": "If you believe ExitCall has been used against you, or you have seen it misused, contact us at <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>. Include as much detail as you can. If you are in immediate danger, contact your local emergency services first.",
@@ -2082,7 +2496,10 @@
       "pt-BR": "Se você acredita que o ExitCall foi usado contra você, ou viu um uso indevido, entre em contato em <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>. Inclua o máximo de detalhes possível. Se você estiver em perigo imediato, contate primeiro os serviços de emergência locais.",
       "ru": "Если вы считаете, что ExitCall был использован против вас, или вы стали свидетелем злоупотребления, свяжитесь с нами по адресу <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>. Сообщите как можно больше деталей. Если вам угрожает непосредственная опасность, сначала обратитесь в местные экстренные службы.",
       "tr": "ExitCall'ın size karşı kullanıldığını düşünüyorsanız veya kötüye kullanıldığını gördüyseniz, <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> adresinden bize ulaşın. Olabildiğince fazla ayrıntı ekleyin. Acil tehlike altındaysanız, önce yerel acil servislerinizle iletişime geçin.",
-      "zh-Hans": "如果您认为 ExitCall 被用于针对您，或您看到了滥用行为，请通过 <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> 与我们联系。请尽可能多地提供细节。如果您处于直接危险中，请先联系当地的紧急服务。"
+      "zh-Hans": "如果您认为 ExitCall 被用于针对您，或您看到了滥用行为，请通过 <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> 与我们联系。请尽可能多地提供细节。如果您处于直接危险中，请先联系当地的紧急服务。",
+      "vi": "Nếu bạn tin rằng ExitCall đã được sử dụng chống lại bạn, hoặc bạn thấy nó bị lạm dụng, liên hệ với chúng tôi tại <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>. Bao gồm càng nhiều chi tiết càng tốt. Nếu bạn đang gặp nguy hiểm tức thì, hãy liên hệ với các dịch vụ khẩn cấp địa phương trước.",
+      "id": "Jika kamu yakin ExitCall telah digunakan untuk merugikanmu, atau kamu melihat penyalahgunaan, hubungi kami di <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a>. Sertakan detail sebanyak mungkin. Jika kamu dalam bahaya langsung, hubungi layanan darurat lokal terlebih dahulu.",
+      "th": "หากคุณเชื่อว่า ExitCall ถูกใช้กับคุณ หรือคุณเห็นการใช้ในทางที่ผิด โปรดติดต่อเราที่ <a href=\"mailto:support@exitcall.app\">support@exitcall.app</a> รวมรายละเอียดให้มากที่สุดเท่าที่ทำได้ หากคุณอยู่ในอันตรายฉับพลัน โปรดติดต่อบริการฉุกเฉินในพื้นที่ของคุณก่อน"
     }
   }
 }

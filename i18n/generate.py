@@ -17,12 +17,15 @@ LOCALE_META = {
     "es":      {"html_lang": "es",    "dir": "ltr", "name": "Español",    "hreflang": "es"},
     "fr":      {"html_lang": "fr",    "dir": "ltr", "name": "Français",   "hreflang": "fr"},
     "hi":      {"html_lang": "hi",    "dir": "ltr", "name": "हिन्दी",       "hreflang": "hi"},
+    "id":      {"html_lang": "id",    "dir": "ltr", "name": "Bahasa Indonesia", "hreflang": "id"},
     "it":      {"html_lang": "it",    "dir": "ltr", "name": "Italiano",   "hreflang": "it"},
     "ja":      {"html_lang": "ja",    "dir": "ltr", "name": "日本語",      "hreflang": "ja"},
     "ko":      {"html_lang": "ko",    "dir": "ltr", "name": "한국어",       "hreflang": "ko"},
     "pt-BR":   {"html_lang": "pt-BR", "dir": "ltr", "name": "Português",  "hreflang": "pt-BR"},
     "ru":      {"html_lang": "ru",    "dir": "ltr", "name": "Русский",    "hreflang": "ru"},
+    "th":      {"html_lang": "th",    "dir": "ltr", "name": "ไทย",         "hreflang": "th"},
     "tr":      {"html_lang": "tr",    "dir": "ltr", "name": "Türkçe",     "hreflang": "tr"},
+    "vi":      {"html_lang": "vi",    "dir": "ltr", "name": "Tiếng Việt", "hreflang": "vi"},
     "zh-Hans": {"html_lang": "zh-Hans","dir": "ltr","name": "简体中文",    "hreflang": "zh-Hans"},
 }
 
